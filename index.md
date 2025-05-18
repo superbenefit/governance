@@ -30,11 +30,11 @@ Policies translate our agreements into practical systems that enable coordinatio
 
 Rather than imposing uniform procedures, policies establish flexible coordination mechanisms that allow different groups to contribute in ways that honor their unique characteristics. Policy domains maintain appropriate autonomy to develop approaches that serve their specific contexts while remaining aligned with organizational purpose.
 
-### Proposals
+### Archives
 
-The proposal archive maintains our institutional memory of governance decisions and their outcomes. This documentation preserves not just decisions, but the deliberative processes that led to collective choices.
+The archives maintain our institutional memory of governance decisions and their outcomes. This documentation preserves not just decisions, but the deliberative processes that led to collective choices.
 
-Historical records create accountability by allowing members to verify that approved decisions were implemented as intended. They enable learning from past experiences and help maintain continuity even as membership evolves. The proposal archive ensures institutional wisdom remains accessible throughout our development.
+Historical records create accountability by allowing members to verify that approved decisions were implemented as intended. They enable learning from past experiences and help maintain continuity even as membership evolves. The archives ensure institutional wisdom remains accessible throughout our development.
 
 ## Navigating Participation
 
@@ -50,7 +50,7 @@ After reviewing agreements, explore the Policies section to learn about our deci
 
 Contributors engaged in ongoing work should familiarize themselves with relevant policy domains to coordinate effectively with others. Understanding resource allocation, decision-making frameworks, and communication mechanisms enables productive collaboration within our structure.
 
-The Proposals section provides valuable context for current decisions by showing how similar challenges were addressed previously.
+The Archives section provides valuable context for current decisions by showing how similar challenges were addressed previously.
 
 ### Team Leaders
 

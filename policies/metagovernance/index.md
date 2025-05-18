@@ -22,15 +22,19 @@ Our **voting mechanisms** establish how we determine collective will on importan
 
 Even with good decision processes, conflicts occasionally arise. Our **dispute resolution framework** provides pathways to address disagreements constructively. By defining these processes in advance, we create safety – everyone knows there are fair ways to raise concerns or appeal decisions.
 
-## Finding Your Way
+Equally important is our **[state management](state/)** framework, which governs how we maintain and update this governance repository itself. These policies ensure that changes to our documented agreements and policies follow legitimate processes while keeping our governance infrastructure current and accurate. State management creates the foundation for transparent, accountable governance by establishing clear protocols for repository maintenance.
 
-This section should be customized during implementation to reflect your organization's specific governance structure:
+## Navigating Our Metagovernance Framework
 
-1. Replace these descriptions with your actual policy organization
-2. Create links to your specific proposal, voting, and dispute resolution processes  
-3. Organize content around how members will actually use these policies
+Our metagovernance policies are organized to support different aspects of collective decision-making and governance maintenance:
 
-When customizing, consider member scenarios like "How to propose a new initiative" or "What to do if you disagree with a decision" rather than organizing strictly by document type.
+**[State Management](state/)** policies govern how we maintain this governance repository, ensuring that documented agreements and policies accurately reflect our collective decisions. These policies establish approval processes for different types of updates and maintain the integrity of our governance documentation.
+
+**Proposal Processes** (coming soon) will define how ideas move from initial concepts through deliberation and decision-making to implementation. These frameworks ensure decisions reflect collective wisdom and community participation.
+
+**Voting Mechanisms** (coming soon) will establish how we determine collective will on important questions, including decision rights, thresholds, and delegation options.
+
+**Dispute Resolution** (coming soon) will provide pathways for addressing disagreements constructively and appealing decisions when necessary.
 
 We encourage all members to familiarize themselves with these processes. Understanding decision-making empowers effective participation in shaping our shared future. Contact current governance facilitators with questions about any aspect of our system.
 
