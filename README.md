@@ -1,20 +1,20 @@
 # SuperBenefit DAO Governance
 
-Welcome to SuperBenefit DAO's governance repository, the living record of how our community coordinates to advance regenerative economics through open-source software, educational initiatives, and public infrastructure development. This repository serves as the authoritative source for understanding how SuperBenefit organizes itself to create positive-sum outcomes for both participants and the broader ecosystem.
+Welcome to SuperBenefit DAO's governance repository, the living record of how our community coordinates to advance our mission through open-source software, educational initiatives, and public infrastructure development. This repository serves as the authoritative source for understanding how SuperBenefit organizes itself to create positive-sum outcomes for both participants and the broader ecosystem.
 
-## Our Approach to Regenerative Governance
+## Our Approach to Governance
 
-SuperBenefit DAO operates on the principle that governance should enable rather than constrain the emergence of regenerative economic systems. Our governance model reflects this philosophy through minimum viable coordination—creating just enough structure to enable effective collaboration while preserving maximum autonomy for contributors to innovate and adapt their approaches to local contexts.
+SuperBenefit DAO operates on the principle that governance should enable rather than constrain effective coordination. Our governance model reflects this philosophy through minimum viable coordination—creating just enough structure to enable effective collaboration while preserving maximum autonomy for contributors to innovate and adapt their approaches to local contexts.
 
-Rather than imposing uniform processes across all domains of our work, SuperBenefit's governance framework emphasizes composability. Different aspects of our mission—from software development to educational content creation to community coordination—require different coordination mechanisms. Our governance system recognizes this diversity by creating modular frameworks that can be combined and adapted as needed while maintaining coherence around our shared commitment to regenerative economics.
+Rather than imposing uniform processes across all domains of our work, SuperBenefit's governance framework emphasizes composability. Different aspects of our mission—from software development to educational content creation to community coordination—require different coordination mechanisms. Our governance system recognizes this diversity by creating modular frameworks that can be combined and adapted as needed while maintaining coherence around our shared purpose.
 
-This repository embodies SuperBenefit's commitment to transparency and collective stewardship. Every agreement, policy, and decision record contained here represents our community's ongoing effort to align coordination mechanisms with regenerative principles. The git-based structure ensures that governance evolution remains participatory, with all changes visible and attributable to community processes rather than individual preferences.
+This repository embodies SuperBenefit's commitment to transparency and collective stewardship. Every agreement, policy, and decision record contained here represents our community's ongoing effort to align coordination mechanisms with our values. The git-based structure ensures that governance evolution remains participatory, with all changes visible and attributable to community processes rather than individual preferences.
 
 ## Repository Architecture
 
-SuperBenefit's governance documentation organizes around three foundational elements that together create the infrastructure for regenerative coordination:
+SuperBenefit's governance documentation organizes around three foundational elements that together create the infrastructure for effective coordination:
 
-**Agreements** establish the relational foundation that enables diverse participants to work together productively toward regenerative outcomes. These documents define how community members, contributors, and collaborators relate to SuperBenefit's mission and to each other. Community agreements create the cultural container for healthy participation, while operational agreements establish the structures through which coordinated work happens. Because agreements form the foundation of trust and mutual accountability, they evolve deliberately through inclusive processes that honor the input of affected participants.
+**Agreements** establish the relational foundation that enables diverse participants to work together productively toward shared outcomes. These documents define how community members, contributors, and collaborators relate to SuperBenefit's mission and to each other. Community agreements create the cultural container for healthy participation, while operational agreements establish the structures through which coordinated work happens. Because agreements form the foundation of trust and mutual accountability, they evolve deliberately through inclusive processes that honor the input of affected participants.
 
 **Policies** translate our foundational agreements into practical coordination mechanisms across SuperBenefit's various domains of activity. These frameworks operate with appropriate autonomy—metagovernance policies guide how we make collective decisions, operational policies coordinate work within and between teams, and platform policies ensure our digital infrastructure supports rather than hinders collaboration. Policies evolve more frequently than agreements, allowing SuperBenefit to adapt its coordination patterns as we learn and grow while maintaining alignment with our core commitments.
 
@@ -22,9 +22,9 @@ SuperBenefit's governance documentation organizes around three foundational elem
 
 ## Engaging with SuperBenefit Governance
 
-SuperBenefit welcomes participation from community members at different levels of engagement, recognizing that regenerative economics benefits from diverse perspectives and contributions. Whether you're exploring SuperBenefit's approach to coordination, contributing to specific initiatives, or helping shape our governance evolution, this repository provides resources to support meaningful participation.
+SuperBenefit welcomes participation from community members at different levels of engagement, recognizing that effective coordination benefits from diverse perspectives and contributions. Whether you're exploring SuperBenefit's approach to organization, contributing to specific initiatives, or helping shape our governance evolution, this repository provides resources to support meaningful participation.
 
-For newcomers to SuperBenefit, begin with our community agreements to understand the cultural foundation of our work, then explore our constitution to grasp how SuperBenefit's regenerative mission translates into organizational structure. Our operating agreement provides the legal framework within which all other governance operates, clarifying SuperBenefit's status as a purpose-driven organization committed to public benefit rather than private extraction.
+For newcomers to SuperBenefit, begin with our community agreements to understand the cultural foundation of our work, then explore our constitution to grasp how SuperBenefit's mission translates into organizational structure. Our operating agreement provides the legal framework within which all other governance operates, clarifying SuperBenefit's status as a purpose-driven organization committed to public benefit.
 
 Active contributors will find detailed guidance in the policies section, organized by domain to support efficient navigation. Understanding the governance frameworks within your areas of contribution enables more effective coordination with other community members while preserving the autonomy necessary for innovative work.
 
@@ -32,7 +32,7 @@ Those interested in participating in governance development can engage through o
 
 ## Contributing to Governance Evolution
 
-SuperBenefit's governance evolves through the active participation of community members who understand that coordination mechanisms must adapt to serve changing circumstances while preserving alignment with regenerative principles. Our governance framework creates multiple pathways for participation, recognizing that different contributors have varying levels of capacity and interest in formal governance processes.
+SuperBenefit's governance evolves through the active participation of community members who understand that coordination mechanisms must adapt to serve changing circumstances while preserving alignment with our core values. Our governance framework creates multiple pathways for participation, recognizing that different contributors have varying levels of capacity and interest in formal governance processes.
 
 Changes to governance documentation follow established processes that balance accessibility with accountability. Smaller updates that improve clarity or fix errors can be proposed directly through the repository, while substantive changes to coordination mechanisms require broader community input through our formal proposal processes. These graduated approaches ensure that governance remains responsive to community needs while preserving the integrity of collective agreements.
 
@@ -40,8 +40,8 @@ SuperBenefit's commitment to open-source principles extends to our governance de
 
 ## Finding Your Way
 
-This repository grows alongside SuperBenefit's development, with new agreements, policies, and proposal records added as our community expands its capacity for regenerative coordination. The structure remains navigable through clear organization and descriptive documentation within each section.
+This repository grows alongside SuperBenefit's development, with new agreements, policies, and proposal records added as our community expands its capacity for effective coordination. The structure remains navigable through clear organization and descriptive documentation within each section.
 
 Key governance documents can be accessed through the main navigation, while detailed policies are organized by domain to support efficient reference during collaborative work. The proposal archive can be explored chronologically to understand governance evolution or topically to see how specific coordination challenges have been addressed over time.
 
-SuperBenefit's governance succeeds when it becomes a transparent foundation that enables rather than constrains regenerative work. By maintaining this repository as a living record of our coordination commitments, we create the conditions for effective collaboration that honors both individual autonomy and collective purpose in service of economic systems that benefit all participants.
+SuperBenefit's governance succeeds when it becomes a transparent foundation that enables rather than constrains effective work. By maintaining this repository as a living record of our coordination commitments, we create the conditions for effective collaboration that honors both individual autonomy and collective purpose in service of systems that benefit all participants.
