@@ -14,8 +14,6 @@ This governance repository functions as a living record of how the SuperBenefit 
 
 As the SuperBenefit community grows and SuperBenefit DAO evolves, different contributors bring their perspectives and capabilities to our shared work. Traditional organizational documentation often becomes fragmented across platforms, creating confusion about current policies and decision-making processes. By maintaining governance documentation in this centralized, version-controlled repository, we ensure that all participants have equal access to accurate information while preserving our history of collective decisions.
 
-This repository supports meaningful participation by making governance processes transparent and accessible. Clear documentation reduces barriers to engagement by helping people understand not just what decisions have been made, but how they can influence future directions. Through this transparency, the repository strengthens our capacity for effective self-governance.
-
 ## Repository Structure
 
 Our governance documentation is organized into three interconnected sections that reflect different aspects of coordination:
@@ -36,9 +34,9 @@ Rather than imposing uniform procedures, our policies establish flexible coordin
 
 Our policy structure reflects the principle of subsidiarity, delegating decision-making authority to those closest to the impact. This enables responsive adaptation while maintaining coherence across diverse activities and working domains.
 
-### Archives
+### Proposals
 
-The archives maintain our institutional memory of governance decisions and their outcomes. This documentation preserves not just decisions, but the deliberative processes that led to collective choices about how we organize our work.
+The proposal archives maintain our institutional memory of governance decisions and their outcomes. This documentation preserves not just decisions, but the deliberative processes that led to collective choices about how we organize our work.
 
 Historical records create accountability by allowing participants to verify that approved decisions were implemented as intended. They enable learning from past experiences and help maintain continuity even as membership evolves. The archives ensure that institutional wisdom remains accessible throughout our development, supporting our commitment to transparent, accountable governance.
 
@@ -64,12 +62,6 @@ Those participating in SuperBenefit DAO's General Circle should understand both 
 
 General Circle members have particular responsibility for stewarding governance evolution while ensuring that our coordination mechanisms continue to serve both the community and the organization effectively.
 
-## Governance Evolution
+## Getting Help
 
-Our governance evolves as we learn and grow in our collaborative work. This repository reflects that evolution while preserving institutional memory that helps participants understand how their contributions shape ongoing development.
-
-Different working groups within SuperBenefit DAO may evolve their coordination patterns at different rates and through different processes. This reflects appropriate autonomy consistent with our subsidiarity principle while maintaining coherence through shared purpose and transparent communication. Our composable governance framework supports this distributed evolution by providing clear interfaces between domains.
-
-Effective governance creates conditions for coordination that feel natural rather than constraining participation through rigid procedures. The governance framework supports the emergence of collective intelligence through inclusive participation, enabling innovative approaches to collaborative work and decision-making.
-
-As the SuperBenefit community and SuperBenefit DAO continue to grow and evolve, this governance repository will expand to reflect our developing practices and accumulated wisdom. We encourage all participants to engage with these documents not just as static reference materials, but as living resources that they can help improve through our governance processes.
+<!-- Instructions to ask for help in our Discord -->

@@ -59,15 +59,3 @@ Update [document name]: [brief description]
 ```
 
 For example, "Update operating_agreement.md: Add dispute resolution process" immediately communicates the scope and purpose of the change. For more complex changes, the optional explanation provides context that helps others understand the reasoning behind the modification.
-
-## Implementation vs. Model Content
-
-When working with this repository, maintain a clear distinction between implementation guidance and model content:
-
-**Implementation guidance** explains how to set up and customize the repository. This includes technical instructions, template explanations, and customization guidance. These components are essential during setup but should be removed from your production repository.
-
-**Model content** demonstrates what your actual governance documentation should look like. This includes the narrative style, organizational structure, and content approach that your governance documentation should follow.
-
-When customizing the repository, replace all implementation notes (marked as HTML comments) with your organization's actual content. Transform template shells into complete, authentic documentation that reflects your organization's specific governance.
-
-By following these guidelines, you'll help maintain a governance repository that serves as both a practical reference and an accurate historical record of your organization's evolution. Your contributions will be more accessible, understandable, and useful to the community as a whole.
