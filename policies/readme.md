@@ -2,7 +2,15 @@
 
 This directory contains SuperBenefit's operational policies that translate foundational agreements into practical coordination mechanisms. For understanding our policy philosophy and structure, see [index.md](index.md). This readme provides technical guidance for creating and modifying policies within SuperBenefit's governance framework.
 
-## Policy Authority Structure
+## Understanding Policy Domains
+
+We've designed this governance system around a foundational principle of subsidiarity - the idea that decisions should be made at the most local level possible by those who will be most affected. This is reflected in how policies are organized into separate domains, each with its own delegated authority.
+
+The folder structure you see here isn't just organizational - it represents actual governance boundaries. Each subfolder represents a distinct policy domain with its own decision-making authority as defined in your organization's agreements. This approach balances autonomy with coordination, allowing specialized teams to govern their areas effectively while maintaining transparency across the organization.
+
+For example, while the Metagovernance domain might establish how proposals are processed within the community governance system, the Operations domain has its own authority to determine how work is coordinated among contributors. These domains don't form a hierarchy - they represent different spheres of authority that work in parallel.
+
+## Policy Authority Framework
 
 SuperBenefit's policy governance follows the same membership-based authority as agreements, with additional delegation mechanisms that enable responsive policy development within established boundaries.
 

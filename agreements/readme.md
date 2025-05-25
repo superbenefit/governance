@@ -2,9 +2,23 @@
 
 This directory contains SuperBenefit's foundational agreements that establish relationships between participants. For conceptual understanding of our agreement philosophy, see the [index.md](index.md) file. This readme provides technical guidance for working with agreements in the governance repository.
 
-## Authority Framework
+## SuperBenefit's Agreement Philosophy
 
-SuperBenefit's agreements are governed through our dual membership structure, with clear authority boundaries that determine who can create or modify specific agreements. Understanding these boundaries is essential for proper repository maintenance.
+SuperBenefit operates through composable governance frameworks that honor the principle of minimum viable coordination. Our agreements create clarity about how participants relate to our shared purpose while respecting the autonomy different contributors need to participate in the manner which brings them, and our shared mission, the most value and fulfillment.
+
+The agreement framework supports both stability and evolution. While our core commitments remain constant, our understanding of how best to advance our mission continues developing through practice and learning. Our agreements reflect this balance, providing stable foundations while allowing adaptation as we grow in wisdom and capacity.
+
+### Community and Operational Domains
+
+SuperBenefit's agreement structure recognizes two interconnected domains of participation, each serving essential functions in our work.
+
+Community agreements establish the cultural foundation for all SuperBenefit activities. They apply universally to everyone who engages with our network, whether attending events, participating in discussions, or contributing to projects. These agreements create the conditions for inclusive learning and collaboration that enable our principles to flourish across diverse contexts and communities.
+
+Operational agreements define the structures and processes for contributors who take on formal roles within SuperBenefit's governance and project coordination. These agreements establish decision-making frameworks, resource allocation processes, and coordination mechanisms that enable us to operate effectively as an organization while maintaining alignment with our mission.
+
+### Agreement Authority Framework
+
+SuperBenefit's agreements are governed through our multistakeholder membership structure, with clear authority boundaries that determine who can create or modify specific agreements. Understanding these boundaries is essential for proper repository maintenance.
 
 ```mermaid
 graph LR

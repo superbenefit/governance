@@ -6,11 +6,7 @@ SuperBenefit's community agreements establish the cultural foundation for all pa
 
 SuperBenefit's community culture reflects our understanding that sustainable transformation requires more than technical innovation or policy change – it demands new patterns of relationship that embody the principles we seek to advance. Our community agreements make explicit the values and behaviors that create conditions for this cultural transformation.
 
-These agreements recognize that meaningful change requires psychological safety for exploring new possibilities, intellectual humility about complexity, and emotional resilience for sustaining long-term efforts. They create frameworks that support these capacities across diverse participants with different backgrounds, skills, and perspectives.
-
-SuperBenefit's community culture prioritizes learning over knowing, collaboration over competition, and systemic thinking over individual optimization. Our agreements encourage curiosity about different approaches while maintaining clarity about our shared commitment to systems that support human and ecological wellbeing.
-
-The agreements acknowledge that many of us come from contexts that have normalized scarcity mindsets, extractive relationships, and competitive dynamics. Creating alternatives requires intentional practice in developing abundance consciousness, mutualistic coordination, and collaborative problem-solving – skills that many of us are learning together as part of SuperBenefit's community development.
+These agreements acknowledge that many of us come from contexts that have normalized scarcity mindsets, extractive relationships, and competitive dynamics. Creating alternatives requires intentional practice in developing abundance consciousness, mutualistic coordination, and collaborative problem-solving – skills that many of us are learning together as part of SuperBenefit's community development.
 
 ## Inclusive Participation in Transformation
 

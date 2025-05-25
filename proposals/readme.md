@@ -2,6 +2,12 @@
 
 This directory maintains SuperBenefit's historical record of governance proposals and their outcomes. For understanding the role of proposals in our governance, see [index.md](index.md). This readme provides technical workflows for archiving proposals and implementing their outcomes in the repository.
 
+## Understanding Proposal Archives
+
+Proposal archives serve as the definitive record of how an organization makes collective decisions. They transform the ephemeral process of deliberation and voting into persistent documentation that remains accessible over time. This transparency enables members to understand the reasoning behind current structures and practices, while also providing valuable context for future governance decisions.
+
+When developing a proposal archive, consider not just storing the final decisions, but preserving the context that informed them. Including original proposal text, key discussion points, voting results, and implementation status creates a more complete picture of governance evolution. This comprehensive approach helps new members understand not just what was decided, but why and how those decisions were reached.
+
 ## Proposal Integration with Repository
 
 SuperBenefit's governance system tightly integrates proposals with repository maintenance. This integration ensures that collective decisions translate directly into documented governance changes while maintaining clear accountability trails.
