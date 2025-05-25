@@ -12,29 +12,31 @@ SuperBenefit DAO operates as a purpose-aligned network of small, autonomous team
 
 This governance repository functions as a living record of how the SuperBenefit community and SuperBenefit DAO coordinate and make decisions together. It contains the collective agreements that define how we operate, the policies that guide our work across different domains, and the historical context that illuminates our evolution.
 
-As the SuperBenefit community grows and SuperBenefit DAO evolves, different contributors bring their perspectives and capabilities to our shared work. Traditional organizational documentation often becomes fragmented across platforms, creating confusion about current policies and decision-making processes. By maintaining governance documentation in this centralized, version-controlled repository, we ensure that all participants have equal access to accurate information while preserving our history of collective decisions.
+As the SuperBenefit community grows and SuperBenefit DAO evolves, different contributors bring their perspectives and capabilities to our shared work. By maintaining governance documentation in this centralized, version-controlled repository, we ensure that all participants have equal access to accurate information while preserving our history of collective decisions.
+
+This repository supports meaningful participation by making governance processes transparent and accessible. Clear documentation reduces barriers to engagement by helping people understand not just what decisions have been made, but how they can influence future directions and contribute to our governance evolution.
 
 ## Repository Structure
 
 Our governance documentation is organized into three interconnected sections that reflect different aspects of coordination:
 
-### Agreements
+### [Agreements](agreements/)
 
 Agreements establish the foundational relationships between participants in the SuperBenefit community and contributors to SuperBenefit DAO. These documents define shared expectations and create pathways for different types of contributors to work together productively.
 
+Our agreements are organized into [community agreements](agreements/community/) that apply to all participants in the SuperBenefit ecosystem, and [operational agreements](agreements/dao/) that govern the formal structures and processes of SuperBenefit DAO. This distinction reflects our dual governance structure where different contexts require different frameworks while maintaining coherence across all activities.
+
 Agreements differ from policies in their focus on relationships rather than operational processes. They create the social foundation that enables coordination by clarifying how participants relate to our shared purpose and to each other. Because they establish fundamental expectations for participation, agreements typically change less frequently than policies but have broader impact when they do evolve.
 
-Our agreements are organized into community agreements that apply to all participants in the SuperBenefit ecosystem, and operational agreements that govern the formal structures and processes of SuperBenefit DAO. This distinction reflects our recognition that different contexts require different frameworks while maintaining coherence across all activities.
-
-### Policies
+### [Policies](policies/)
 
 Policies translate our agreements into practical systems that enable coordination across different scales and domains. These frameworks create pathways for meaningful participation that respect the varying needs, capacities, and perspectives of different contributors.
 
-Rather than imposing uniform procedures, our policies establish flexible coordination mechanisms that allow different working groups to contribute in ways that honor their unique characteristics and expertise. Policy domains maintain appropriate autonomy to develop approaches that serve their specific contexts while remaining aligned with our shared purpose.
+Our policy structure reflects the principle of subsidiarity, delegating decision-making authority to those closest to the impact. Policy domains include [metagovernance](policies/metagovernance/) (how we make collective decisions), [operations](policies/operations/) (how work gets coordinated), and [platforms](policies/platforms/) (how our digital infrastructure supports collaboration).
 
-Our policy structure reflects the principle of subsidiarity, delegating decision-making authority to those closest to the impact. This enables responsive adaptation while maintaining coherence across diverse activities and working domains.
+Rather than imposing uniform procedures, our policies establish flexible coordination mechanisms that allow different working groups to contribute in ways that honor their unique characteristics and expertise while remaining aligned with our shared purpose.
 
-### Proposals
+### [Archives](proposals/)
 
 The proposal archives maintain our institutional memory of governance decisions and their outcomes. This documentation preserves not just decisions, but the deliberative processes that led to collective choices about how we organize our work.
 
@@ -42,19 +44,19 @@ Historical records create accountability by allowing participants to verify that
 
 ## Navigating Participation
 
-Different participants engage with our governance documentation based on their roles and interests. The following guidance helps orient effective participation:
+Different participants engage with our governance documentation based on their roles and interests. Understanding our dual governance structure helps orient effective participation:
 
 ### Community Members
 
-Those new to the SuperBenefit community should begin with the Agreements section to understand our values and approach to collaboration. These foundational documents provide context about what participation means and what types of engagement are valued.
+Those new to the SuperBenefit community should begin with our [community agreements](agreements/community/) to understand our values and approach to collaboration. These foundational documents provide context about what participation means and what types of engagement are valued across all SuperBenefit activities.
 
-After reviewing agreements, explore the Policies section to learn about our decision-making processes and how you can participate actively in governance. Understanding our approach to minimum viable coordination helps newcomers find meaningful ways to contribute.
+After reviewing agreements, explore the [metagovernance policies](policies/metagovernance/) to learn about our decision-making processes and how you can participate actively in community governance. Understanding our approach to minimum viable coordination helps newcomers find meaningful ways to contribute.
 
-### Contributors and Working Group Members
+### SuperBenefit DAO Contributors
 
-Contributors engaged in SuperBenefit DAO work should familiarize themselves with relevant policy domains to coordinate effectively with others. Understanding resource allocation, decision-making frameworks, and communication mechanisms enables productive collaboration within our structure.
+Contributors engaged in SuperBenefit DAO work should familiarize themselves with [operational agreements](agreements/dao/) and relevant [policy domains](policies/) to coordinate effectively with others. Understanding resource allocation, decision-making frameworks, and communication mechanisms enables productive collaboration within our organizational structure.
 
-The Archives section provides valuable context for current decisions by showing how we've addressed similar challenges previously. This institutional memory helps inform better decisions as we continue developing effective coordination practices.
+The [proposal archives](proposals/) provide valuable context for current decisions by showing how we've addressed similar challenges previously. This institutional memory helps inform better decisions as we continue developing effective coordination practices.
 
 ### General Circle Members
 
@@ -62,6 +64,22 @@ Those participating in SuperBenefit DAO's General Circle should understand both 
 
 General Circle members have particular responsibility for stewarding governance evolution while ensuring that our coordination mechanisms continue to serve both the community and the organization effectively.
 
-## Getting Help
+## Contributing to Governance
 
-<!-- Instructions to ask for help in our Discord -->
+SuperBenefit's governance evolves through active participation from community members and DAO contributors. Our governance framework creates multiple pathways for participation, recognizing that different contributors have varying levels of capacity and interest in formal governance processes.
+
+For those interested in contributing to governance documentation or participating in governance development, start with our [contribution guidelines](contributing.md) which explain our governance authority structure and direct you to specific workflows for different types of contributions.
+
+Changes to governance documentation follow established processes that balance accessibility with accountability. Our [governance framework](governance.md) explains how repository maintenance integrates with our dual governance structure, ensuring that all changes reflect legitimate collective decisions rather than individual preferences.
+
+## Getting Help and Staying Connected
+
+The best way to find help, ask questions, or get involved with SuperBenefit is to [join our Discord](https://discord.com/invite/d2EeszTvVm). Our community spaces provide opportunities to engage with ongoing discussions, participate in governance processes, and connect with other contributors.
+
+For specific questions about governance procedures, repository contributions, or participation pathways, consult the relevant readme files linked throughout this documentation, then engage through established governance spaces where community members and contributors can provide guidance and support.
+
+## Repository Evolution
+
+This governance repository grows alongside SuperBenefit's development, with new agreements, policies, and proposal records added as our community expands its capacity for effective coordination. The structure remains navigable through clear organization and descriptive documentation within each section.
+
+SuperBenefit's governance succeeds when it becomes a transparent foundation that enables rather than constrains effective work. By maintaining this repository as a living record of our coordination commitments, we create the conditions for effective collaboration that honors both individual autonomy and collective purpose in service of systems that benefit all participants.
