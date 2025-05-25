@@ -1,37 +1,277 @@
-# Proposal Archive Implementation Guide
+# Proposals Directory
 
-This directory maintains the historical record of governance proposals that have been formally considered by the organization. A well-structured proposal archive creates transparency and accountability in decision-making processes.
+This directory maintains SuperBenefit's historical record of governance proposals and their outcomes. For understanding the role of proposals in our governance, see [index.md](index.md). This readme provides technical workflows for archiving proposals and implementing their outcomes in the repository.
 
-*This file provides implementation guidance and should be removed when deploying your governance documentation.*
+## Proposal Integration with Repository
 
-## Understanding Proposal Archives
+SuperBenefit's governance system tightly integrates proposals with repository maintenance. This integration ensures that collective decisions translate directly into documented governance changes while maintaining clear accountability trails.
 
-Proposal archives serve as the definitive record of how an organization makes collective decisions. They transform the ephemeral process of deliberation and voting into persistent documentation that remains accessible over time. This transparency enables members to understand the reasoning behind current structures and practices, while also providing valuable context for future governance decisions.
+```mermaid
+flowchart LR
+    A[Governance Proposal] --> B{Requires Repo Changes?}
+    
+    B -->|Yes| C[Submit as Pull Request<br/>Proposal + Changes]
+    B -->|No| D[Submit Proposal Only]
+    
+    C --> E[Governance Platform]
+    D --> E
+    
+    E --> F[Decision Process]
+    
+    F --> G{Outcome}
+    
+    G -->|Approved + Changes| H[Merge PR]
+    G -->|Approved No Changes| I[Create Archive Entry]
+    G -->|Rejected| J[Create Archive Entry]
+    
+    H --> K[Repository Updated]
+    I --> K
+    J --> K
+    
+    style C fill:#e8f5e8
+    style H fill:#e8f5e8
+```
 
-When developing a proposal archive, consider not just storing the final decisions, but preserving the context that informed them. Including original proposal text, key discussion points, voting results, and implementation status creates a more complete picture of governance evolution. This comprehensive approach helps new members understand not just what was decided, but why and how those decisions were reached.
+### Pull Request Workflow
 
-## Documentation Standards
+When proposals require repository changes (new agreements, policy modifications, etc.), they should be submitted as pull requests containing:
 
-For proposal archives to effectively serve their purpose, they should maintain consistent documentation standards. Consider establishing guidelines for:
+1. **Proposal document** in `/proposals` directory following archive template
+2. **Specific changes** to agreements, policies, or other governance documents
+3. **Cross-reference updates** ensuring consistency
+4. **Clear commit message** linking to governance platform
 
-Content requirements that define what information must be included in each proposal record. This typically includes the original proposal text, sponsor information, voting results, implementation status, and relevant timestamps.
+This approach creates immediate visibility of proposed changes and enables direct implementation upon approval.
 
-Standardized format that creates a predictable structure for all proposal records. Templates can help contributors maintain consistency while reducing the effort required to create proper documentation.
+## Archiving Proposals
 
-Status tracking that clearly indicates where each proposal stands in your governance process. Having consistent status labels (e.g., active, implemented, rejected, withdrawn) makes it easier to understand the current governance state.
+All proposals that reach formal decision stage must be archived, regardless of outcome. This comprehensive record enables institutional learning and accountability.
 
-Cross-references that connect related governance artifacts. For example, linking proposals to the discussions that informed them or to the implementations they authorized.
+### Archive Structure
 
-By maintaining consistent standards, you transform individual proposal records into a coherent governance history that serves an organization's evolving needs.
+Each proposal archive entry follows the template in [/policies/metagovernance/state/proposal-archive-template.md](../policies/metagovernance/state/proposal-archive-template.md):
 
-## Integration with Governance
+```markdown
+---
+description: [Brief proposal summary]
+---
 
-For a proposal archive to effectively support governance, it must be integrated into actual decision-making processes. Consider how your archiving workflow connects to other governance activities:
+# [Proposal Number] - [Proposal Title]
 
-When does archiving occur in your governance cycle? Define at what point proposals get documented in the official archive - when they're submitted, when voting concludes, or when implementation is complete.
+[One-sentence description]
 
-Who is responsible for maintaining the proposal archive? Clarify whether this is a distributed responsibility or assigned to specific roles within your governance system.
+**Proposed by**: [Author(s)]  
+**Submitted**: [Date]  
+**Status**: [Approved/Rejected/Withdrawn] ✅/❌/⚠️
 
-How do governance participants reference archived proposals? Establish conventions for citing previous decisions in current discussions or proposals.
+[🗣️ Discussion](link-to-forum)  
+[📊 Voting](link-to-snapshot)
 
-By thoughtfully developing your proposal archive, you create a resource that strengthens an organization's ability to learn from experience, maintain accountability, and build on past decisions rather than repeatedly covering the same ground.
+## Proposal Text
+
+[Complete original proposal content]
+
+## Voting Results
+
+**Outcome**: [Decision]  
+**Vote Breakdown**: [Detailed statistics]  
+**Participation**: [Metrics]
+
+## Implementation
+
+**Changes Made**: [What was implemented]  
+**Timeline**: [Implementation schedule]  
+**Current Status**: [Progress update]
+```
+
+### Creating Archive Entries
+
+When archiving proposals:
+
+1. **Create new file** in `/proposals` directory
+   - Use format: `YYYY-MM-DD-short-title.md`
+   - Example: `2024-03-15-general-circle-formation.md`
+
+2. **Populate from template** including all required fields
+
+3. **Preserve original content** - Include complete proposal text as submitted
+
+4. **Document outcomes** accurately with voting data
+
+5. **Track implementation** status for approved proposals
+
+### Organizing the Archive
+
+As the archive grows, implement organizational structures:
+
+```
+proposals/
+├── index.md          # Overview and navigation
+├── readme.md         # This file
+├── 2024/            # Year-based organization
+│   ├── Q1/          # Optional quarterly subdivision
+│   ├── Q2/
+│   └── ...
+└── active/          # Currently implementing proposals
+```
+
+## Deriving Repository Content from Proposals
+
+Approved proposals often establish new agreements or policies that must be extracted and properly documented in the repository.
+
+### Content Extraction Workflow
+
+```mermaid
+flowchart TD
+    A[Approved Proposal] --> B{Content Type?}
+    
+    B -->|Agreement| C[Extract Agreement Text]
+    B -->|Policy| D[Extract Policy Framework]
+    B -->|Process| E[Extract Process Description]
+    
+    C --> F[Create Agreement Document]
+    D --> G[Create Policy Document]
+    E --> H[Update Relevant Policies]
+    
+    F --> I[Place in Correct Directory]
+    G --> I
+    H --> I
+    
+    I --> J[Update Index Files]
+    J --> K[Link Back to Proposal]
+```
+
+### Implementation Steps
+
+1. **Identify governance content** within the proposal:
+   - Look for "RESOLVED" or "AGREED" sections
+   - Find establishment of ongoing commitments
+   - Locate delegation of authorities
+
+2. **Extract and structure** the content:
+   - Separate one-time decisions from ongoing governance
+   - Organize into appropriate document sections
+   - Maintain fidelity to approved language
+
+3. **Create appropriate documents**:
+   - Agreements → `/agreements/[domain]/`
+   - Policies → `/policies/[domain]/`
+   - Constitutional elements → `/constitution.md`
+
+4. **Establish traceability**:
+   - Link new documents to source proposal
+   - Reference proposal number in document
+   - Update proposal archive with implementation status
+
+### Handling Complex Proposals
+
+Some proposals establish multiple governance elements:
+
+- **Multi-part agreements**: Create separate documents for distinct agreements
+- **Agreement + policies**: Create agreement first, then derived policies
+- **Phased implementation**: Document timeline in proposal archive
+
+## Proposal Categories and Workflows
+
+Different proposal types require different handling:
+
+### Governance Structure Proposals
+
+These establish or modify fundamental organizational structures:
+- Often create new agreements
+- May delegate policy authorities
+- Require careful extraction of multiple elements
+- Example: Creating the General Circle structure
+
+### Resource Allocation Proposals
+
+These make specific decisions about resource deployment:
+- Usually don't create new governance documents
+- Archive records the decision and rationale
+- May reference existing policies
+- Example: Approving annual budget
+
+### Policy Modification Proposals
+
+These change existing operational frameworks:
+- Require updates to specific policy documents
+- May affect multiple related policies
+- Need careful cross-reference management
+- Example: Updating voting thresholds
+
+### Administrative Proposals
+
+These handle organizational housekeeping:
+- May not require any document changes
+- Archive provides historical record
+- Often reference existing authorities
+- Example: Appointing new signers
+
+## Status Tracking
+
+Maintain clear status indicators for proposal implementation:
+
+**✅ Implemented**: All required changes completed
+**🔄 In Progress**: Implementation ongoing per timeline
+**⏸️ Paused**: Implementation delayed (with reason)
+**❌ Not Implemented**: Approved but not executed (with explanation)
+**🚫 Rejected**: Proposal not approved
+**⚠️ Withdrawn**: Proposal removed from consideration
+
+Regular reviews of "In Progress" proposals ensure accountability for implementing collective decisions.
+
+## Cross-Referencing
+
+Effective cross-referencing creates navigable connections between proposals and their outcomes:
+
+### In Proposal Archives
+
+- Link to resulting agreements/policies
+- Reference related proposals
+- Connect to implementation documentation
+
+### In Governance Documents
+
+- Citation format: `per Proposal 2024-03-15`
+- Link back to source proposal
+- Note modification history
+
+### In Index Files
+
+- Highlight significant proposals
+- Group related proposals
+- Provide finding aids
+
+## Quality Considerations
+
+Proposal archives require particular attention to:
+
+- **Completeness**: Include all relevant context
+- **Accuracy**: Preserve exact voting outcomes
+- **Timeliness**: Archive promptly after decisions
+- **Accessibility**: Organize for easy discovery
+
+The [state management policies](../policies/metagovernance/state/readme.md) provide additional quality frameworks applicable to proposal archiving.
+
+## Integration with External Platforms
+
+SuperBenefit uses various platforms for governance deliberation. Maintain consistent practices when archiving from:
+
+- **Snapshot**: Export voting data and participation metrics
+- **Forum**: Link to discussion threads (consider archiving key points)
+- **Discord**: Reference significant discussions without reproducing
+- **GitHub**: Connect pull requests to governance decisions
+
+Always preserve links to original platforms while ensuring the archive contains sufficient information to understand decisions independently.
+
+## Common Patterns and Best Practices
+
+Through experience, these patterns support effective proposal management:
+
+1. **Archive immediately** after decision to preserve context
+2. **Use consistent naming** for easy chronological sorting
+3. **Preserve original intent** even if implementation differs
+4. **Document lessons learned** from complex implementations
+5. **Regular implementation reviews** to ensure accountability
+
+The proposal archive serves as SuperBenefit's institutional memory, enabling us to build on past decisions rather than repeatedly addressing similar challenges.
