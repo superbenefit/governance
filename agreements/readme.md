@@ -16,7 +16,7 @@ Community agreements establish the cultural foundation for all SuperBenefit acti
 
 Operational agreements define the structures and processes for contributors who take on formal roles within SuperBenefit's governance and project coordination. These agreements establish decision-making frameworks, resource allocation processes, and coordination mechanisms that enable us to operate effectively as an organization while maintaining alignment with our mission.
 
-### Agreement Authority Framework
+## Agreement Authority Framework
 
 SuperBenefit's agreements are governed through our multistakeholder membership structure, with clear authority boundaries that determine who can create or modify specific agreements. Understanding these boundaries is essential for proper repository maintenance.
 
