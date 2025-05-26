@@ -33,3 +33,11 @@ These agreements extend beyond formal organizational boundaries, creating contin
 When community agreements and SuperBenefit DAO's organizational practices become misaligned, this creates confusion about expectations and undermines trust in governance processes. Maintaining alignment between cultural standards and operational practice serves both domains, fostering coherence that enables authentic participation throughout SuperBenefit.
 
 When conflicts arise regarding community agreements, resolution focuses on restoration and learning rather than punishment. This approach recognizes that SuperBenefit's community health depends on balancing accountability with understanding, supporting resilient relationships that enable effective collaboration over time. Our conflict resolution processes reflect SuperBenefit's broader commitment to constructive problem-solving and continuous improvement.
+
+## SuperBenefit's Distinctive Approach to Community
+
+SuperBenefit's community agreements reflect our understanding that sustainable transformation requires more than technical innovation or policy change – it demands new patterns of relationship that embody regenerative principles. We explicitly acknowledge that many participants come from contexts that normalized scarcity mindsets and extractive dynamics, making intentional practice in abundance consciousness and mutualistic coordination essential skills we develop together.
+
+Our restoration-based approach to conflict resolution exemplifies this commitment. Rather than focusing on punishment or exclusion, we prioritize learning and relationship repair, recognizing that community resilience emerges from our collective capacity to navigate differences constructively. This approach supports the kind of authentic, long-term collaboration that enables meaningful social transformation.
+
+For those interested in contributing more formally to SuperBenefit's work, our [operational agreements](../dao/) build upon these community foundations to establish structures for coordinated action. Understanding both sets of agreements helps participants navigate different levels of engagement while maintaining alignment with our shared values.

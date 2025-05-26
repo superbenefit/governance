@@ -30,6 +30,8 @@ SuperBenefit's operational agreements create a coherent governance system with t
 
 Operational and community agreements form complementary parts of SuperBenefit's governance ecosystem, each addressing different aspects of organizational life. For operational contributors, community agreements provide the cultural foundation upon which formal processes operate.
 
+Those new to SuperBenefit should begin with our [community agreements](../community/) to understand the cultural foundation that makes our operational coordination possible. These foundational relationships enable the trust and collaboration that our operational structures depend upon.
+
 Decision-making frameworks, resource allocation, and coordination mechanisms within SuperBenefit all depend on healthy communication, trust, and shared behavioral norms to function as intended. When community agreements create strong relational fabric, operational processes can focus on their specific functions without managing basic interpersonal dynamics.
 
 Contributors to SuperBenefit don't abandon community agreement obligations when taking operational roles – they add new commitments specific to their responsibilities. This layering recognizes that operational work occurs within broader community context, not separate from it. This integration helps maintain SuperBenefit's collaborative culture across all levels of engagement.
@@ -37,3 +39,11 @@ Contributors to SuperBenefit don't abandon community agreement obligations when 
 This relationship creates continuity across SuperBenefit. When community and operational agreements remain aligned, contributors can move fluidly between contexts without experiencing value conflicts. Operational domains maintain appropriate autonomy while staying connected to broader community culture and purpose.
 
 Operational agreements themselves emerge through governance processes that bridge community participation and operational coordination within SuperBenefit. This ensures changes maintain legitimacy through established decision-making while creating space for evolution as SuperBenefit learns and grows. This adaptive capacity reflects SuperBenefit's commitment to governance that serves its evolving needs while maintaining democratic accountability.
+
+## SuperBenefit's Distinctive Approach to Organization
+
+SuperBenefit DAO embodies a distinctive approach to organizational coordination through our commitment to minimum viable coordination and composable governance frameworks. Rather than imposing rigid hierarchies or complex bureaucracies, we create flexible structures that enable autonomous teams to coordinate through shared purpose while maintaining appropriate independence in their specific domains.
+
+Our General Circle structure exemplifies this approach – a self-selecting group of 5-6 active contributors who facilitate coordination without concentrating power in traditional management roles. This structure enables responsive decision-making while ensuring no single individual has sufficient control to dominate organizational direction, reflecting our commitment to distributed authority and collective stewardship.
+
+The composable nature of our governance allows different coordination mechanisms to be combined and adapted as circumstances change, rather than requiring wholesale restructuring when needs evolve. This flexibility supports innovation and experimentation while maintaining the stability necessary for effective collaboration across our purpose-aligned network.

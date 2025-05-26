@@ -4,36 +4,30 @@ description: An index of platform policies for SuperBenefit
 
 # SuperBenefit Platform Policies
 
-Welcome to the platforms section of our policy documentation. This area covers the digital spaces where the SuperBenefit community and SuperBenefit DAO contributors collaborate – our communication tools, shared repositories, documentation systems, and other technical infrastructure that enables us to work together across distances and time zones.
+Welcome to the platforms section of our policy documentation. This area contains policies that govern our digital infrastructure – the tools, systems, and online spaces that enable collaboration across SuperBenefit.
 
-## Digital Infrastructure as Governance
+## Understanding Platform Policies
 
-Digital tools are never neutral. The design of our online spaces profoundly shapes how we interact, who can participate easily, and what kinds of collaboration are possible. A chat platform optimized for quick exchanges creates different dynamics than a forum designed for thoughtful deliberation. Permission systems determine who can view, edit, or approve different content. Even information organization reflects choices about what we prioritize across SuperBenefit.
+Platform governance recognizes that digital tools profoundly shape how we interact and collaborate. Rather than treating infrastructure as merely technical, we approach it as a critical extension of our governance, ensuring our digital spaces embody SuperBenefit's values of inclusivity, transparency, and purposeful action.
 
-Effective platform governance recognizes these subtle but powerful influences. Rather than treating digital infrastructure as merely technical, we approach it as a critical extension of our governance. We design and maintain our digital spaces to embody the same values that guide SuperBenefit in all contexts – inclusivity, transparency, distributed authority, and purposeful action.
+Like operations, platform governance has delegated authority as defined in our agreements. This enables responsive technical management while maintaining accountability to broader community input for significant changes affecting participation.
 
-Like operations, platform governance has delegated authority as defined in our agreements. This autonomy allows those with technical expertise to respond quickly to security concerns, user experience issues, and evolving technical needs without creating bottlenecks. At the same time, significant changes affecting how SuperBenefit community members or SuperBenefit DAO contributors participate remain accountable to broader input.
+Platform policies coordinate closely with our [operational policies](../operations/) to ensure that digital infrastructure supports rather than constrains effective work coordination, and with our [metagovernance policies](../metagovernance/) to ensure that technology serves democratic participation rather than replacing it.
 
-## Human-Centered Digital Infrastructure
+## Current Platform Policies
 
-At our approach's heart is a commitment to human-centered design. This means our platform policies prioritize the needs of all participants – especially those with less technical confidence – over administrative convenience or technical elegance. We regularly seek feedback from diverse users across SuperBenefit and conduct accessibility reviews to ensure our digital spaces serve everyone effectively.
+This domain is currently being developed. Platform policies will be added as SuperBenefit's digital infrastructure needs become clear through use.
 
-A key principle is balancing security with usability. Every access restriction creates friction for legitimate users. Rather than defaulting to maximum restrictions, we assess actual security needs and risk profiles of different systems. Where appropriate, we use graduated access levels that match permissions to roles and responsibilities across SuperBenefit community and SuperBenefit DAO contexts.
+## SuperBenefit's Distinctive Approach to Platform Governance
 
-We recognize that even well-designed systems sometimes create barriers for valid use cases. That's why our platform policies include clear pathways for support and exceptions. All participants should always have straightforward ways to request help, suggest improvements, or request exceptions to standard policies when needed.
+SuperBenefit treats digital infrastructure decisions as governance decisions rather than purely technical choices. We recognize that every platform configuration, permission structure, and interface design either enables or constrains different forms of participation, making technology choices fundamentally political acts that should align with our values rather than defaulting to technical convenience.
 
-## Navigating SuperBenefit's Digital Infrastructure
+Our commitment to human-centered design means prioritizing participant needs over administrative efficiency or technical elegance. Rather than forcing people to adapt to technological constraints, we configure digital spaces to support the kinds of collaboration and participation that our community values require. This includes ensuring accessibility across different technical comfort levels and creating multiple pathways for meaningful engagement.
 
-This section contains platform policies that govern our digital infrastructure across SuperBenefit:
+Platform governance serves democratic participation by ensuring that technology amplifies rather than replaces human agency in collective decision-making. Digital tools should make it easier for people to participate meaningfully in governance rather than creating barriers or concentrating influence among those with technical expertise. This approach treats technology as infrastructure for community empowerment rather than as a substitute for human relationship and deliberation.
 
-**Access Management** (coming soon) will define how SuperBenefit community members and SuperBenefit DAO contributors gain access to different digital spaces, what permission levels exist, and how access rights are managed across our various platforms and tools.
+## Developing Platform Policies
 
-**Platform Administration** (coming soon) will establish how our technical infrastructure is maintained, including security protocols, backup procedures, and maintenance schedules that ensure reliable collaboration spaces for all participants.
+Platform policies adapt to rapidly changing digital environments while maintaining our commitment to creating spaces that serve human collaboration rather than constraining it. This domain prioritizes user needs and accessibility in all policy development.
 
-**Content Organization** (coming soon) will provide guidelines for creating, organizing, and maintaining information across our digital systems, helping ensure knowledge remains accessible as SuperBenefit evolves.
-
-**Integration Standards** (coming soon) will address how different tools and platforms work together, ensuring seamless workflows for both community members and SuperBenefit DAO contributors.
-
-Understanding these platform policies helps you navigate our digital ecosystem more effectively and contribute to its ongoing improvement. If you encounter barriers or have ideas for making our online spaces more useful, the platform governance team welcomes that feedback from all SuperBenefit participants.
-
-Remember that digital tools and environments change rapidly. Our platform policies adapt accordingly, balancing stability with innovation. What remains constant is our commitment to creating digital spaces that genuinely serve the humans who use them rather than forcing humans to adapt to technological constraints. This human-centered approach reflects SuperBenefit's broader values while supporting effective collaboration across all our contexts.
+For questions about platform policies or to contribute to their development, engage through established governance channels or contact platform administrators.

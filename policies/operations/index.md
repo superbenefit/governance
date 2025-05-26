@@ -4,36 +4,30 @@ description: An index of operational policies for SuperBenefit DAO
 
 # SuperBenefit DAO Operational Policies
 
-Welcome to the operations section of our policy documentation. This is where SuperBenefit's community values transform into tangible activities and outputs through SuperBenefit DAO's structure. While metagovernance addresses how we make decisions, operational policies focus on what SuperBenefit DAO does and how we coordinate our work together as a purpose-aligned network of autonomous teams.
+Welcome to the operations section of our policy documentation. This area contains policies that govern how work gets organized and coordinated within SuperBenefit DAO. These policies translate organizational purpose into practical coordination mechanisms.
 
-## Translating Purpose into Action
+## Understanding Operational Policies
 
-Operations is where purpose becomes practice within SuperBenefit DAO. These policies create enough consistency for autonomous teams to work effectively together, while preserving the flexibility each team needs to adapt to their specific contexts. Finding this balance is crucial – too much standardization creates bureaucracy that slows work; too little creates coordination problems across teams.
+Operational policies address the practical aspects of getting work done collaboratively. They create frameworks for coordination while preserving flexibility for different contexts and approaches. The goal is enabling effective collaboration without creating unnecessary bureaucracy.
 
-Our approach gives operational governance its own authority within SuperBenefit DAO, separate from community-wide governance processes. This autonomy is essential because operational contexts change rapidly and require specialized knowledge. Teams working directly on projects need flexibility to adapt their processes without excessive overhead while maintaining alignment with SuperBenefit's broader purpose.
+Like other policy domains, operational governance has delegated authority within SuperBenefit DAO, separate from community-wide processes. This autonomy enables teams to adapt quickly to changing operational contexts while maintaining alignment with our broader purpose.
 
-This doesn't mean operating in isolation from the SuperBenefit community. All operational activities remain guided by our shared agreements and values. What autonomy does mean is that those closest to the work have appropriate agency to determine how best to accomplish their goals, creating more responsive and effective collaboration within SuperBenefit DAO's network structure.
+These operational policies operate within the decision-making frameworks established by our [metagovernance policies](../metagovernance/), ensuring that operational autonomy serves collective purpose through legitimate governance processes.
 
-## How SuperBenefit DAO Organizes Work
+## Current Operational Policies
 
-One core aspect of operations is how we structure collaboration within SuperBenefit DAO's purpose-aligned network. Our **working group policies** define how autonomous teams form, evolve, and coordinate with each other. These include team formation processes, role definitions, and frameworks for cross-group collaboration that respect each team's autonomy while maintaining coherence.
+This domain is currently being developed. Operational policies will be added as SuperBenefit DAO's coordination needs become clear through practice.
 
-Equally important is responsible resource management within SuperBenefit DAO. Our **resource allocation policies** cover how budgets are allocated, expenses approved, and contributions recognized across the network of teams. Clear resource policies help prevent conflicts and ensure sustainability as we pursue our collective goals.
+## SuperBenefit's Distinctive Approach to Operations
 
-The **project lifecycle** is another crucial element within SuperBenefit DAO's operational framework. These policies define how initiatives move from ideas to implementation to completion across different teams. They include guidance on project proposals, progress tracking, and evaluation so we can learn from each effort and continuously improve how we work together.
+SuperBenefit DAO's operational framework is designed around the principle of emergent coordination rather than prescribed procedures. Instead of creating comprehensive policies upfront, we develop coordination mechanisms based on actual needs that arise through collaborative work. This approach recognizes that effective operational frameworks emerge from practice rather than theoretical planning.
 
-## Navigating SuperBenefit DAO's Operational Policies
+Our purpose-aligned network model enables autonomous teams to coordinate through shared mission rather than hierarchical management. This creates network effects where coordination improves organically as teams develop working relationships and shared understanding, rather than requiring constant oversight or detailed procedural compliance. The result is more responsive and adaptive coordination that can evolve with changing circumstances.
 
-This section contains the operational policies that govern SuperBenefit DAO's work as a purpose-aligned network:
+This domain explicitly welcomes experimentation and innovation, recognizing that breakthrough approaches to collaboration often emerge from trying new methods rather than following established patterns. By maintaining minimum viable coordination requirements while preserving space for creative approaches, we enable teams to discover coordination mechanisms that serve both their specific contexts and the broader network's effectiveness.
 
-**Working Group Coordination** (coming soon) will define how autonomous teams within SuperBenefit DAO form, operate, and interface with each other while maintaining their independence and specialized focus.
+## Developing Operational Policies
 
-**Resource Management** (coming soon) will cover how SuperBenefit DAO allocates resources across teams, manages budgets, and recognizes contributions within our distributed structure.
+Operational policies evolve continuously through practice, adapting based on experience and changing circumstances. This domain welcomes innovation and experimentation while maintaining coordination across different working contexts.
 
-**Project Coordination** (coming soon) will establish frameworks for how initiatives are proposed, approved, and coordinated across SuperBenefit DAO's network of autonomous teams.
-
-**Decision Authority** (coming soon) will clarify what operational decisions teams can make autonomously and what requires coordination with other parts of SuperBenefit DAO or broader SuperBenefit community input.
-
-Understanding these operational frameworks helps you engage effectively with ongoing SuperBenefit DAO work and contribute to new initiatives. If you're interested in joining existing teams or proposing new projects, these policies provide guidance on navigating those processes within our distributed structure.
-
-Remember that operational policies within SuperBenefit DAO evolve continuously through practice. Unlike constitutional elements requiring broad consensus to change, operational practices adapt more fluidly based on experience and changing circumstances. If you notice opportunities to improve how teams work together within SuperBenefit DAO, the operational domain welcomes that feedback and innovation while respecting the autonomy of individual teams.
+For questions about operational policies or to contribute to their development, engage through SuperBenefit DAO's operational governance processes.

@@ -36,7 +36,7 @@ Our policy structure reflects the principle of subsidiarity, delegating decision
 
 Rather than imposing uniform procedures, our policies establish flexible coordination mechanisms that allow different working groups to contribute in ways that honor their unique characteristics and expertise while remaining aligned with our shared purpose.
 
-### [Archives](proposals/)
+### [Proposal Archives](proposals/)
 
 The proposal archives maintain our institutional memory of governance decisions and their outcomes. This documentation preserves not just decisions, but the deliberative processes that led to collective choices about how we organize our work.
 
@@ -63,6 +63,8 @@ The [proposal archives](proposals/) provide valuable context for current decisio
 Those participating in SuperBenefit DAO's General Circle should understand both the agreements that establish their authority and the policies that guide their activities. Effective leadership requires understanding how the General Circle relates to broader community governance and how decisions flow through our composable governance framework.
 
 General Circle members have particular responsibility for stewarding governance evolution while ensuring that our coordination mechanisms continue to serve both the community and the organization effectively.
+
+Each section includes both user-friendly index pages and detailed readme files with technical guidance for contributors. The readme files provide workflows and implementation details for those actively maintaining or developing governance documentation.
 
 ## Contributing to Governance
 

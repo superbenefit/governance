@@ -22,6 +22,8 @@ When seeking information in the archive, participants can explore proposals chro
 
 The archive also creates accountability by documenting not just decisions but their implementation across SuperBenefit. By tracking proposals from conception through approval to implementation, we maintain a record of how effectively we translate collective decisions into action. This accountability helps build trust in governance processes by demonstrating that formal decisions lead to concrete changes in how we operate.
 
+The archived proposals in this section often serve as the source for new [agreements](../agreements/) and [policies](../policies/) within our governance system. Understanding this relationship helps explain how our governance documentation evolves through collective decision-making rather than individual authorship.
+
 ## Contributing to SuperBenefit's Archive
 
 SuperBenefit's proposal archive depends on consistent documentation practices to maintain its value as a governance resource. When proposals reach resolution through established decision-making processes, they should be archived promptly with complete information about their content, deliberation process, and outcome. Including context about the circumstances that prompted the proposal helps future participants understand not just what was decided but why the decision was necessary.
