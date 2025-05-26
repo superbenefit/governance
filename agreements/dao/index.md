@@ -6,6 +6,8 @@ description: Operational agreements that govern SuperBenefit DAO
 
 This section contains the operational agreements that govern formal structures and processes within SuperBenefit DAO. These agreements establish rights, responsibilities, and relationships among members who contribute directly to SuperBenefit's organizational operations.
 
+The foundational agreement is our [Operating Agreement](operating-agreement.md), which establishes SuperBenefit DAO as a Marshall Islands non-profit DAO LLC. This lightweight agreement contains only essential legal and structural elements, with detailed governance procedures maintained in our comprehensive policy framework throughout the DAO State.
+
 ## Foundation of SuperBenefit's DAO Governance
 
 Operational agreements define how SuperBenefit DAO functions as an organized entity, creating structures that enable coordinated action toward shared purpose. Unlike community agreements that focus on interpersonal dynamics, these address the mechanics of organizational function – decision-making, resource allocation, and work coordination within SuperBenefit.

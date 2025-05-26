@@ -7,6 +7,122 @@ SuperBenefit's operational governance reflects our commitment to demonstrating t
 
 The operational framework embodies our principle of minimum viable coordination, establishing just enough structure to enable productive collaboration without creating unnecessary bureaucracy. These agreements focus on clarifying interfaces between different working domains while preserving autonomy for contributors to develop approaches that serve their specific contexts and capabilities.
 
+## Operating Agreement Integration Map
+
+The Operating Agreement establishes the legal framework for SuperBenefit DAO while delegating detailed governance to policies maintained in the DAO State. This integration map shows how Operating Agreement sections connect to corresponding policy documents and authority delegation paths.
+
+### Operating Agreement to DAO State Reference Matrix
+
+| Operating Agreement Section | Referenced DAO State Policy | Policy Domain | Authority Level |
+|----------------------------|----------------------------|---------------|-----------------|
+| **I.4** - Principal Office | Digital Infrastructure Policy | Platforms | General Circle |
+| **III.1** - Member Eligibility | Membership Management Policy | Operations | Member Governance |
+| **III.2.B** - General Circle Members | General Circle Policy | Operations | Member Governance |
+| **III.3** - Voting Weight | Voting Procedures Policy | Metagovernance | Member Governance |
+| **IV.1** - Management Rights | Voting Procedures Policy | Metagovernance | Member Governance |
+| **V.2** - General Circle | General Circle Policy | Operations | Member Governance |
+| **V.4** - Authority Delegation | Authority Delegation Policy | Operations | Member Governance |
+| **V.5** - Authority to Bind Company | Authority Delegation Policy | Operations | Member Governance |
+| **VI.1** - Required Records | Data Management Policy | Platforms | General Circle |
+| **VII.1** - Initial Contributions | Resource Allocation Policy | Operations | Member Governance |
+| **VIII.1** - Member Status Cessation | Membership Management Policy | Operations | Member Governance |
+| **IX.1** - New Members | Membership Management Policy | Operations | Member Governance |
+| **X.1** - Dissolution Events | Voting Procedures Policy | Metagovernance | Member Governance |
+| **XI.1** - Amendment Procedures | Voting Procedures Policy | Metagovernance | Member Governance |
+| **XII.1** - Dispute Resolution | Dispute Resolution Policy | Metagovernance | Member Governance |
+
+### Policy Integration Flow
+
+```mermaid
+flowchart TD
+    A[Operating Agreement] --> B[Policy Domains]
+    
+    B --> C[Metagovernance Policies]
+    B --> D[Operations Policies]
+    B --> E[Platform Policies]
+    
+    C --> F[Voting Procedures]
+    C --> G[Dispute Resolution]
+    C --> H[Amendment Procedures]
+    
+    D --> I[Membership Management]
+    D --> J[General Circle]
+    D --> K[Resource Allocation]
+    D --> L[Authority Delegation]
+    
+    E --> M[Digital Infrastructure]
+    E --> N[Data Management]
+    
+    F --> O[Article III.3, IV.1, X.1, XI.1]
+    G --> P[Article XII.1]
+    H --> Q[Article XI.1]
+    
+    I --> R[Article III.1, VIII.1, IX.1]
+    J --> S[Article III.2.B, V.2]
+    K --> T[Article VII.1]
+    L --> U[Article V.4, V.5]
+    
+    M --> V[Article I.4]
+    N --> W[Article VI.1]
+    
+    style A fill:#e8f5e8
+    style C fill:#fff3e0
+    style D fill:#fff9c4
+    style E fill:#e1f5fe
+```
+
+### Authority Delegation Hierarchy
+
+The Operating Agreement establishes a clear delegation hierarchy that distributes decision-making authority while maintaining Member sovereignty:
+
+**Member Governance Authority**
+- Constitutional amendments (Article XI.1)
+- Fundamental policy establishment and modification
+- General Circle selection and oversight (Article V.2)
+- Resource allocation frameworks (Article VII.1)
+- Membership criteria and procedures (Articles III.1, VIII.1, IX.1)
+
+**General Circle Delegated Authority**
+- Platform policy implementation within established frameworks
+- Operational coordination as defined in General Circle Policy
+- Digital infrastructure management per Digital Infrastructure Policy
+- Day-to-day administration within approved budgets and procedures
+
+**Policy Domain Authority**
+- Domain-specific policy modification within delegated boundaries
+- Implementation procedures and operational details
+- Technical specifications and standards
+- Performance monitoring and improvement recommendations
+
+### Cross-Reference Dependencies
+
+Understanding policy interdependencies helps maintain governance coherence:
+
+**Core Dependencies**
+- Voting Procedures Policy → All Member decision-making processes
+- Membership Management Policy → General Circle Policy (member eligibility for coordination roles)
+- Authority Delegation Policy → All domain-specific policies (delegation boundaries)
+- Digital Infrastructure Policy → Data Management Policy (platform integration)
+
+**Circular References Requiring Coordination**
+- Amendment Procedures ↔ Voting Procedures (constitutional changes affect voting)
+- General Circle Policy ↔ Authority Delegation Policy (coordination authority boundaries)
+- Membership Management ↔ Dispute Resolution (membership appeals processes)
+
+### Implementation Validation Checklist
+
+When implementing Operating Agreement changes or policy modifications, verify:
+
+- [ ] Operating Agreement section correctly references corresponding DAO State policy
+- [ ] Policy document exists and addresses all requirements from Operating Agreement
+- [ ] Authority delegation matches between Operating Agreement and policy documents
+- [ ] Cross-references updated in all affected policies
+- [ ] No circular dependencies create logical contradictions
+- [ ] Timeline compliance with Article XIII.5 (24-month implementation requirement)
+- [ ] Legal requirements preserved from Marshall Islands DAO LLC statutes
+
+This integration map ensures that the lightweight Operating Agreement maintains legal compliance while enabling detailed governance through the comprehensive DAO State policy framework.
+
 ## Operational Agreement Authority
 
 Operational agreements are governed through operational governance processes, which include SuperBenefit DAO contributors who take on formal roles in organizational coordination. This authority structure ensures that coordination mechanisms reflect input from those actively engaged in organizational work while remaining accountable to broader community values.
@@ -175,6 +291,7 @@ Operational agreements are organized to support navigation by contributors seeki
 dao/
 ├── index.md                    # User-facing overview
 ├── readme.md                  # This technical guide
+├── operating-agreement.md     # Primary legal agreement
 ├── general_circle_charter.md  # Example operational agreement
 ├── resource_stewardship.md    # Example operational agreement
 ├── contributor_framework.md   # Example operational agreement
