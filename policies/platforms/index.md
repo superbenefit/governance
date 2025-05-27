@@ -16,7 +16,13 @@ Platform policies coordinate closely with our [operational policies](../operatio
 
 ## Current Platform Policies
 
-This domain is currently being developed. Platform policies will be added as SuperBenefit's digital infrastructure needs become clear through use.
+### Hats Protocol Governance
+
+SuperBenefit uses Hats Protocol for onchain role management throughout our network. [Hats Protocol policies](hats/) establish the social coordination frameworks that complement the technical capabilities of this role management infrastructure.
+
+**[Role Advice Policy](hats/role-advice-policy.md)** establishes the social coordination framework that SuperBenefit Members use when considering modifications to roles managed through Hats Protocol. This policy creates cultural foundations for discussing and coordinating role changes that are ultimately implemented onchain.
+
+Additional platform policies will be developed as SuperBenefit's digital infrastructure needs become clear through use.
 
 ## SuperBenefit's Distinctive Approach to Platform Governance
 
