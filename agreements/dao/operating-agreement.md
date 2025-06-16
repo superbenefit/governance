@@ -56,7 +56,7 @@ III.2 **Classes of Membership.** The Company shall have two classes of Members:
 
 A. **Contributors**: All persons who meet the eligibility requirements as established in the Membership Management Policy and who accept the terms of this Agreement and the Community Agreements maintained in the DAO State.
 
-B. **General Circle Members**: A subset of Contributors consisting of five to six (5-6) active contributors who facilitate coordination functions as established in the General Circle Policy maintained in the DAO State. General Circle Members have the same voting rights as Contributors but carry additional coordination responsibilities as defined in such policy.
+B. **General Circle Members**: A subset of Contributors who facilitate coordination functions as established in the General Circle Policy maintained in the DAO State. The composition, selection, and specific responsibilities of General Circle Members shall be determined by the General Circle Policy. General Circle Members have the same voting rights as Contributors but carry additional coordination responsibilities as defined in such policy.
 
 III.3 **Voting Weight.** Each Member's voting weight shall be determined in accordance with the membership mechanism established in the Membership Management Policy maintained in the DAO State. The Company shall maintain a Voting Procedures Policy in the DAO State that establishes quorum requirements, voting thresholds, delegation mechanisms, and all other procedures for Member decision-making. All Members are bound by the voting procedures established in such policy.
 
@@ -76,7 +76,7 @@ IV.5 **Miscellaneous Obligations.** Each Member shall be duty-bound to act consi
 
 V.1 **Member-Managed.** The Company shall be member-managed. Ordinary and usual decisions concerning business affairs of the Company shall be made by the Members through the governance processes established in the DAO State, which includes but is not limited to the Voting Procedures Policy and other metagovernance policies maintained in the Company's governance repository.
 
-V.2 **General Circle.** The General Circle shall consist of five to six (5-6) General Circle Members who facilitate coordination functions without concentrating decision-making power. The General Circle operates within the authority delegated through this Agreement as detailed in the General Circle Policy maintained in the DAO State. The General Circle does not constitute a board of directors or managing members and cannot bind the Company except as authorized by the Members through established governance procedures.
+V.2 **General Circle.** The General Circle shall consist of General Circle Members who facilitate coordination functions without concentrating decision-making power. The composition, size, selection process, and operational procedures of the General Circle shall be established in the General Circle Policy maintained in the DAO State. The General Circle operates within the authority delegated through this Agreement as detailed in such policy. The General Circle does not constitute a board of directors or managing members and cannot bind the Company except as authorized by the Members through established governance procedures.
 
 V.3 **Policy Domains.** The Company's operational activities shall be organized through policy domains as established in the DAO State, including but not limited to:
 
@@ -117,7 +117,7 @@ VIII.2 **No Distribution on Cessation of Member Status.** The voluntary or invol
 
 IX.1 **New Members.** New Members may join in accordance with the eligibility requirements and procedures established in the Membership Management Policy maintained in the DAO State.
 
-IX.2 **Restrictions on Membership.** It is the policy of the Company to comply with the Marshall Islands sanctions regimes, including the United Nations Sanctions (Implementation) Act, 2020. "Designated persons" subject to United Nations targeted financial sanctions regimes and listed on the UN Security Council Consolidated List are restricted from becoming or continuing as Members of the Company. It is also the policy of the Company that residents of the embargoed countries and regions of Iran, Syria, Cuba, North Korea, and the Crimea, Donetsk, and Luhansk regions of Ukraine, regulated by the U.S. Department of Treasury, Office of Foreign Assets Control (OFAC), are restricted from being Members ("Restricted Person").
+IX.2 **Additional Membership Requirements.** Additional membership requirements and restrictions may be established through the Membership Management Policy maintained in the DAO State in accordance with applicable law and organizational values.
 
 ## ARTICLE X - DISSOLUTION
 
