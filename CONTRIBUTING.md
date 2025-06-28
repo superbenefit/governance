@@ -4,7 +4,7 @@ This guide outlines how to effectively maintain and contribute to SuperBenefit's
 
 ## Understanding SuperBenefit's Governance Structure
 
-SuperBenefit operates through a dual governance structure with distinct domains of authority and participation. Understanding this structure is essential for making appropriate contributions to the repository.
+SuperBenefit operates through a multi-stakeholder governance structure with distinct domains of authority and participation. Understanding this structure is essential for making appropriate contributions to the repository.
 
 **Community Governance** includes all SuperBenefit community members and addresses matters affecting the broader ecosystem, cultural standards, and shared values. Community members participate in shaping community agreements and community-level policies through established proposal and deliberation processes.
 

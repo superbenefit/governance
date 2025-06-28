@@ -50,19 +50,19 @@ The Company shall never be operated for the primary purpose of carrying on a tra
 
 ## ARTICLE III - MEMBERS
 
-III.1 **Member Eligibility.** A person becomes a Member by obtaining a membership badge, which in the case of a non-profit DAO means a voting or governance right (not an ownership or economic right). The Company shall maintain a Membership Management Policy in the DAO State that establishes eligibility criteria, verification procedures, and onboarding processes. All Members are bound by the requirements and procedures established in such policy.
+III.1 **Member Eligibility.** A person becomes a Member by obtaining a membership badge, which in the case of a non-profit DAO means a voting or governance right (not an ownership or economic right). The Company shall maintain a Contributor Eligibility Policy in the DAO State that establishes eligibility criteria, verification procedures, and onboarding processes. All Members are bound by the requirements and procedures established in such policy.
 
 III.2 **Classes of Membership.** The Company shall have two classes of Members:
 
-A. **Contributors**: All persons who meet the eligibility requirements as established in the Membership Management Policy and who accept the terms of this Agreement and the Community Agreements maintained in the DAO State.
+A. **Contributors**: All persons who meet the eligibility requirements as established in the Contributor Eligibility Policy and who accept the terms of this Agreement and the Community Agreements maintained in the DAO State.
 
 B. **General Circle Members**: A subset of Contributors who facilitate coordination functions as established in the General Circle Policy maintained in the DAO State. The composition, selection, and specific responsibilities of General Circle Members shall be determined by the General Circle Policy. General Circle Members have the same voting rights as Contributors but carry additional coordination responsibilities as defined in such policy.
 
-III.3 **Voting Weight.** Each Member's voting weight shall be determined in accordance with the membership mechanism established in the Membership Management Policy maintained in the DAO State. The Company shall maintain a Voting Procedures Policy in the DAO State that establishes quorum requirements, voting thresholds, delegation mechanisms, and all other procedures for Member decision-making. All Members are bound by the voting procedures established in such policy.
+III.3 **Voting Weight.** Each Member's voting weight shall be determined in accordance with the membership mechanism established in the Contributor Eligibility Policy maintained in the DAO State. The Company shall maintain a Voting Policy in the DAO State that establishes quorum requirements, voting thresholds, delegation mechanisms, and all other governance frameworks for Member decision-making. All Members are bound by the voting mechanisms established in such policy.
 
 ## ARTICLE IV - RIGHTS AND DUTIES OF MEMBERS
 
-IV.1 **Management Rights.** All Members who have not Dissociated (as defined in Article VIII) shall be entitled to vote on any matter submitted to a vote of the Members in accordance with the Voting Procedures Policy maintained in the DAO State.
+IV.1 **Management Rights.** All Members who have not Dissociated (as defined in Article VIII) shall be entitled to vote on any matter submitted to a vote of the Members in accordance with the Voting Policy maintained in the DAO State.
 
 IV.2 **Liability of Members.** No Member shall be liable for the liabilities of the Company unless otherwise provided for in this Agreement or any governance rules approved in accordance with this Agreement. The failure of the Company to observe any formalities or requirements relating to the exercise of its powers or management of its business or affairs under this Agreement shall not be grounds for imposing personal liability on the Members for liabilities of the Company.
 
@@ -74,13 +74,13 @@ IV.5 **Miscellaneous Obligations.** Each Member shall be duty-bound to act consi
 
 ## ARTICLE V - MANAGEMENT
 
-V.1 **Member-Managed.** The Company shall be member-managed. Ordinary and usual decisions concerning business affairs of the Company shall be made by the Members through the governance processes established in the DAO State, which includes but is not limited to the Voting Procedures Policy and other metagovernance policies maintained in the Company's governance repository.
+V.1 **Member-Managed.** The Company shall be member-managed. Ordinary and usual decisions concerning business affairs of the Company shall be made by the Members through the governance processes established in the DAO State, which includes but is not limited to the Voting Policy and other metagovernance policies maintained in the Company's governance repository.
 
 V.2 **General Circle.** The General Circle shall consist of General Circle Members who facilitate coordination functions without concentrating decision-making power. The composition, size, selection process, and operational procedures of the General Circle shall be established in the General Circle Policy maintained in the DAO State. The General Circle operates within the authority delegated through this Agreement as detailed in such policy. The General Circle does not constitute a board of directors or managing members and cannot bind the Company except as authorized by the Members through established governance procedures.
 
 V.3 **Policy Domains.** The Company's operational activities shall be organized through policy domains as established in the DAO State, including but not limited to:
 
-A. **Metagovernance Policies**: Establishing decision-making frameworks, voting procedures, and dispute resolution mechanisms.
+A. **Metagovernance Policies**: Establishing decision-making frameworks, voting mechanisms, dispute resolution processes, and coordination structures including the General Circle.
 B. **Operational Policies**: Governing work coordination, resource allocation, and contributor activities.
 C. **Platform Policies**: Managing digital infrastructure and online collaboration tools.
 
@@ -109,21 +109,21 @@ VII.1 **Initial Contributions.** The minimum initial contributions required to e
 
 ## ARTICLE VIII - DISSOCIATION OF A MEMBER
 
-VIII.1 **Member Status Cessation.** A Member shall cease to be a Member automatically upon the happening of any events specified in the Membership Management Policy maintained in the DAO State. Such policy shall establish procedures for voluntary withdrawal, involuntary removal for cause, and appeals processes. All Members are bound by the cessation procedures established in such policy.
+VIII.1 **Member Status Cessation.** A Member shall cease to be a Member automatically upon the happening of any events specified in the Contributor Eligibility Policy maintained in the DAO State. Such policy shall establish procedures for voluntary withdrawal, involuntary removal for cause, and appeals processes. All Members are bound by the cessation procedures established in such policy.
 
 VIII.2 **No Distribution on Cessation of Member Status.** The voluntary or involuntary cessation of a person's Member status does not give rise to any right of a Member to a distribution of any property or economic resources that may be or become available to the Company.
 
 ## ARTICLE IX - ADMISSION OF ADDITIONAL MEMBERS
 
-IX.1 **New Members.** New Members may join in accordance with the eligibility requirements and procedures established in the Membership Management Policy maintained in the DAO State.
+IX.1 **New Members.** New Members may join in accordance with the eligibility requirements and procedures established in the Contributor Eligibility Policy maintained in the DAO State.
 
-IX.2 **Additional Membership Requirements.** Additional membership requirements and restrictions may be established through the Membership Management Policy maintained in the DAO State in accordance with applicable law and organizational values.
+IX.2 **Additional Membership Requirements.** Additional membership requirements and restrictions may be established through the Contributor Eligibility Policy maintained in the DAO State in accordance with applicable law and organizational values.
 
 ## ARTICLE X - DISSOLUTION
 
 X.1 **Dissolution Events.** The Company shall be dissolved, and its affairs wound up in accordance with §114 of the DAO Act and other applicable Marshall Islands laws upon either:
 
-A. Approval by a vote of the Members in accordance with the dissolution procedures established in the Voting Procedures Policy maintained in the DAO State; or
+A. Approval by a vote of the Members in accordance with the dissolution requirements established in the Voting Policy maintained in the DAO State; or
 B. Any of the events specified in §114(1) of the DAO Act.
 
 X.2 **Dissolution Requirements.** As soon as possible following the occurrence of any of the events specified in Article X.1 causing the dissolution of the Company, an authorized agent or Member shall file Articles of Dissolution with the Registrar in the form prescribed by the Registrar.
@@ -134,7 +134,7 @@ X.4 **No distribution to interested parties on dissolution.** Upon a court order
 
 ## ARTICLE XI - AMENDMENT
 
-XI.1 **Amendment or Modification.** This Agreement may be amended or modified only through the constitutional amendment procedures established in the Voting Procedures Policy maintained in the DAO State. Such procedures shall require heightened approval thresholds to protect the fundamental structure established herein.
+XI.1 **Amendment or Modification.** This Agreement may be amended or modified only through the constitutional amendment requirements established in the Voting Policy maintained in the DAO State. Such requirements shall include heightened approval thresholds to protect the fundamental structure established herein.
 
 XI.2 **DAO State Governance.** The policies and procedures maintained in the DAO State may be modified through their respective governance processes as established in this Agreement and detailed in the DAO State governance framework.
 
@@ -152,7 +152,7 @@ XIII.2 **DAO State Integration.** The Company's governance framework includes th
 
 A. **Community Agreements**: Establishing cultural foundations and behavioral expectations for all participants.
 B. **Operational Agreements**: Defining structures and processes for organizational coordination.
-C. **Governance Policies**: Detailed procedures for decision-making, operations, and platform management.
+C. **Governance Policies**: Detailed frameworks for decision-making, operations, and platform management.
 D. **Proposal Archives**: Historical records of governance decisions and their implementation.
 
 Members agree to be bound by this Agreement and all validly adopted policies and procedures maintained in the DAO State.
@@ -172,4 +172,4 @@ By: Authorized Representative
 
 **MEMBERS:**
 
-By their participation in the Company's governance systems and acceptance of membership in accordance with the Membership Management Policy maintained in the DAO State, Members agree to be bound by this Agreement.
+By their participation in the Company's governance systems and acceptance of membership in accordance with the Contributor Eligibility Policy maintained in the DAO State, Members agree to be bound by this Agreement.

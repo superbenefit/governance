@@ -24,7 +24,7 @@ SuperBenefit's metagovernance reflects our commitment to treating governance its
 
 Our state management policies exemplify this approach, recognizing that the integrity of governance documentation is foundational to effective coordination. Rather than treating governance as abstract rules, we understand it as living infrastructure that requires active maintenance, clear update processes, and continuous alignment with actual practice. This creates governance that evolves transparently rather than through backroom negotiations or individual preferences.
 
-The dual governance structure – distinguishing between community and operational decision-making – enables appropriate participation while maintaining clear authority boundaries. This structure reflects our understanding that different types of decisions require different levels of expertise and involvement, enabling both democratic participation and effective coordination without forcing uniform approaches to all governance questions.
+The multi-stakeholder governance structure – distinguishing between community and operational decision-making – enables appropriate participation while maintaining clear authority boundaries. This structure reflects our understanding that different types of decisions require different levels of expertise and involvement, enabling both democratic participation and effective coordination without forcing uniform approaches to all governance questions.
 
 ## Contributing to Metagovernance
 

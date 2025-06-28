@@ -1,51 +1,21 @@
 ---
-description: Authority delegation policy placeholder for SuperBenefit DAO
+description: Framework for delegating decision-making authority within SuperBenefit DAO's distributed structure
 ---
 
 # Authority Delegation Policy
 
-**Status**: To be developed within 24 months of Operating Agreement effective date
+This policy establishes how SuperBenefit DAO delegates authority to enable responsive decision-making while maintaining Member oversight. Our approach embodies subsidiarity – placing decisions with those closest to the impact and expertise.
 
-## Purpose
+## Delegation Principles
 
-This policy will establish procedures for delegating policy-making authority to the General Circle or other groups as referenced in the Operating Agreement. The policy must enable responsive decision-making while maintaining Member oversight and revocable delegation authority.
+SuperBenefit operates through distributed authority rather than centralized control. Members may delegate specific authorities to roles (such as General Circle roles, working group roles, or specialized functions) through governance decisions. All delegations remain revocable and subject to Member oversight, ensuring ultimate authority rests with the membership.
 
-## Operating Agreement Compliance Requirements
+Delegated authority operates within explicit boundaries defined at delegation time. Roles exercising delegated authority cannot exceed these boundaries. While roles may sub-delegate through onchain mechanisms, sub-delegation does not transfer accountability – the original role holder remains responsible for all actions taken under their delegated authority, including those of sub-delegates.
 
-The Operating Agreement requires this policy to address:
+## Accountability Framework
 
-- Procedures for delegating policy-making authority to General Circle or other groups
-- Revocable nature of all delegations subject to Member oversight
-- Documentation requirements for delegated authorities
-- Oversight mechanisms ensuring delegation serves Member interests
-- Procedures and limitations for binding the Company
-- Integration with governance processes established in DAO State
+Roles holding delegated authority maintain transparency through regular reporting to Members. The specific reporting requirements are established at delegation time, proportional to the authority's scope and impact. Accountability remains with the role regardless of any sub-delegation – roles cannot escape responsibilities by delegating to others. Entities that own roles (individually or cooperatively) are accountable for fulfilling role obligations. Members may modify or revoke delegations through standard governance processes.
 
-## Key Policy Development Considerations
+## Documentation
 
-- **Subsidiarity Principle**: Delegation to those closest to the impact and expertise
-- **Accountability Mechanisms**: Clear oversight and reporting requirements for delegated authority
-- **Revocation Procedures**: Accessible processes for Members to modify or revoke delegations
-- **Scope Definition**: Clear boundaries on what can/cannot be delegated
-- **Documentation Standards**: Transparent tracking of delegated authorities and their use
-- **Performance Evaluation**: Regular assessment of delegation effectiveness
-
-## Delegation Framework
-
-**Policy Domain Authority**: Delegation of policy-making within specific domains (metagovernance, operations, platforms).
-
-**Administrative Authority**: Routine operational decisions that enable organizational function.
-
-**Emergency Authority**: Limited, time-bound authority for urgent situations requiring immediate response.
-
-**Project Authority**: Delegation for specific initiatives with defined scope and timeline.
-
-## Implementation Timeline
-
-This policy framework will be developed through SuperBenefit DAO's governance processes during the first 24 months following Operating Agreement adoption. Initial delegations may proceed through interim procedures established by Member governance.
-
-Development priorities:
-1. Basic delegation procedures and scope definition (Months 1-6)
-2. Oversight and accountability mechanisms (Months 6-12)
-3. Revocation and modification procedures (Months 12-18)
-4. Performance evaluation and optimization frameworks (Months 18-24)
+All role delegations and authorities are documented in the Hats Tree, which serves as the onchain source of truth for role structures and permissions. The DAO State documents the policies, agreements, and proposals that establish governance frameworks, while the Hats Tree implements the actual role authorities. This separation ensures clear distinction between governance decisions (DAO State) and their technical implementation (Hats Tree).

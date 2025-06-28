@@ -16,7 +16,7 @@ Agreements tend to be more stable than policies, changing less frequently but wi
 
 ## Where to Find Our Agreements
 
-Our agreements are organized to reflect SuperBenefit's dual governance structure:
+Our agreements are organized to reflect SuperBenefit's multi-stakeholder governance structure:
 
 The [Community](community/) directory contains agreements applying to all SuperBenefit participants, establishing cultural foundations and behavioral expectations across our ecosystem.
 

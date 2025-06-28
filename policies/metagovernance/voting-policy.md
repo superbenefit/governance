@@ -1,17 +1,25 @@
 ---
-description: Voting mechanisms policy for SuperBenefit - currently under development
+description: Basic voting mechanisms for SuperBenefit DAO member decision-making
 ---
 
-# Voting Mechanisms
+# Voting Policy
 
-This policy is currently under development through SuperBenefit's governance processes. When complete, it will establish how we determine collective will on important questions, including decision rights, thresholds, and delegation options across different SuperBenefit contexts.
+This policy establishes the basic voting mechanisms for Member decision-making within SuperBenefit DAO as required by the Operating Agreement.
 
-## Development Status
+## Voting Weight
 
-This policy area has been identified as necessary for SuperBenefit's operations but is pending formal development and approval through appropriate governance channels. The policy will address vote counting, decision authority in different contexts, voting thresholds for various decision types, and delegation mechanisms for community members and SuperBenefit DAO contributors.
+Voting power is determined by $SPRB token holdings. Each Member's voting weight equals the number of $SPRB tokens they hold at the time of proposal submission. This token-weighted system aligns voting influence with participation in the SuperBenefit ecosystem while maintaining the non-economic, governance-focused nature of membership rights.
 
-## Getting Involved
+The $SPRB token represents reputation and governance rights within SuperBenefit DAO, not ownership or economic interest. Token distribution mechanisms and eligibility requirements are established in the Contributor Eligibility Policy.
 
-Community members and SuperBenefit DAO contributors interested in contributing to this policy's development should engage through established governance processes. This includes participating in governance discussions on Discord and contributing to formal proposal development when opportunities arise.
+## Quorum
 
-For updates on this policy's development, monitor our governance forums and Discord channels where policy development discussions take place.
+Proposals require participation from at least 20% of total voting power to be valid.
+
+## Voting Timeline
+
+The standard voting period is seven days. Members may change their vote during the voting period, with only the final position counting.
+
+## Transparency
+
+All proposals, voting records, and outcomes are maintained in the public Proposal Archive within the DAO State. This transparency enables accountability and helps Members learn from past decisions.

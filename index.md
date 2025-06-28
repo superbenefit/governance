@@ -1,12 +1,12 @@
 ---
-description: SuperBenefit DAO governance state and documentation
+showHero: true
+title: SuperBenefit Governance
+description: The current, canonical state of SuperBenefit governance
 ---
 
-# SuperBenefit DAO Governance Documentation
+Welcome to SuperBenefit's governance documentation. This repository serves as the central source of truth for understanding how SuperBenefit coordinates its work, how SuperBenefit facilitates decision-making, and how we maintain alignment with our shared purpose. Here you'll find the agreements that anchor our collaboration, the policies that guide our decision-making, and the historical record of our collective choices.
 
-Welcome to SuperBenefit DAO's governance documentation. This repository serves as the central source of truth for understanding how SuperBenefit coordinates its work, how SuperBenefit DAO facilitates decision-making, and how we maintain alignment with our shared purpose. Here you'll find the agreements that anchor our collaboration, the policies that guide our decision-making, and the historical record of our collective choices.
-
-SuperBenefit DAO operates as a purpose-aligned network of small, autonomous teams that facilitate collaborative work. It functions on principles of minimum viable coordination and composable governance frameworks. Rather than imposing rigid structures, we create flexible coordination mechanisms that enable diverse contributors to work effectively toward shared goals while maintaining appropriate autonomy in their domains. This governance repository reflects that philosophy by providing clear guidance without constraining innovation.
+SuperBenefit operates as a purpose-aligned network of small, autonomous teams that facilitate collaborative work. It functions on principles of minimum viable coordination and composable governance frameworks. Rather than imposing rigid structures, we create flexible coordination mechanisms that enable diverse contributors to work effectively toward shared goals while maintaining appropriate autonomy in their domains. This governance repository reflects that philosophy by providing clear guidance without constraining innovation.
 
 ## Understanding Our Governance Documentation
 
@@ -24,7 +24,7 @@ Our governance documentation is organized into three interconnected sections tha
 
 Agreements establish the foundational relationships between participants in the SuperBenefit community and contributors to SuperBenefit DAO. These documents define shared expectations and create pathways for different types of contributors to work together productively.
 
-Our agreements are organized into [community agreements](agreements/community/) that apply to all participants in the SuperBenefit ecosystem, and [operational agreements](agreements/dao/) that govern the formal structures and processes of SuperBenefit DAO. This distinction reflects our dual governance structure where different contexts require different frameworks while maintaining coherence across all activities.
+Our agreements are organized into [community agreements](agreements/community/) that apply to all participants in the SuperBenefit ecosystem, and [operational agreements](agreements/dao/) that govern the formal structures and processes of SuperBenefit DAO. This distinction reflects our multi-stakeholder governance structure where different contexts require different frameworks while maintaining coherence across all activities.
 
 Agreements differ from policies in their focus on relationships rather than operational processes. They create the social foundation that enables coordination by clarifying how participants relate to our shared purpose and to each other. Because they establish fundamental expectations for participation, agreements typically change less frequently than policies but have broader impact when they do evolve.
 
@@ -44,7 +44,7 @@ Historical records create accountability by allowing participants to verify that
 
 ## Navigating Participation
 
-Different participants engage with our governance documentation based on their roles and interests. Understanding our dual governance structure helps orient effective participation:
+Different participants engage with our governance documentation based on their roles and interests. Understanding our multi-stakeholder governance structure helps orient effective participation:
 
 ### Community Members
 
@@ -72,7 +72,7 @@ SuperBenefit's governance evolves through active participation from community me
 
 For those interested in contributing to governance documentation or participating in governance development, start with our [contribution guidelines](contributing.md) which explain our governance authority structure and direct you to specific workflows for different types of contributions.
 
-Changes to governance documentation follow established processes that balance accessibility with accountability. Our [governance framework](governance.md) explains how repository maintenance integrates with our dual governance structure, ensuring that all changes reflect legitimate collective decisions rather than individual preferences.
+Changes to governance documentation follow established processes that balance accessibility with accountability. Our [governance framework](governance.md) explains how repository maintenance integrates with our multi-stakeholder governance structure, ensuring that all changes reflect legitimate collective decisions rather than individual preferences.
 
 ## Getting Help and Staying Connected
 

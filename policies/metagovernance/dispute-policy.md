@@ -1,17 +1,21 @@
 ---
-description: Dispute resolution policy for SuperBenefit - currently under development
+description: Framework for resolving disputes within SuperBenefit through restoration-focused processes
 ---
 
-# Dispute Resolution
+# Dispute Resolution Policy
 
-This policy is currently under development through SuperBenefit's governance processes. When complete, it will provide pathways for addressing disagreements constructively and appealing decisions when necessary, covering conflicts that may arise in community contexts or within SuperBenefit DAO operations.
+This policy establishes the framework for resolving disputes that arise within SuperBenefit, whether concerning governance decisions, member relationships, or resource allocation. Our approach emphasizes restoration and learning over punishment, recognizing that healthy conflict resolution strengthens collaborative capacity.
 
-## Development Status
+## Philosophy
 
-This policy area has been identified as necessary for SuperBenefit's operations but is pending formal development and approval through appropriate governance channels. The policy will establish frameworks for handling conflicts across all SuperBenefit contexts, ensuring fair processes for raising concerns and appealing decisions.
+SuperBenefit's dispute resolution reflects our understanding that disagreement is natural in collaborative work. Rather than eliminating conflict, we create structured pathways for constructive resolution. This restoration-focused approach prioritizes repairing relationships and addressing underlying issues over assigning blame, aligning with our commitment to regenerative organizational culture.
 
-## Getting Involved
+## Resolution Framework
 
-Community members and SuperBenefit DAO contributors interested in contributing to this policy's development should engage through established governance processes. This includes participating in governance discussions on Discord and contributing to formal proposal development when opportunities arise.
+Disputes begin with informal resolution through direct communication, supported by community agreements. When informal processes prove insufficient, parties may request facilitation from General Circle role holders. General Circle roles coordinate appointment of mediators who help parties find mutually acceptable solutions without imposing outcomes.
 
-For updates on this policy's development, monitor our governance forums and Discord channels where policy development discussions take place.
+Formal escalation occurs only when informal processes fail. Parties submit written requests to General Circle role holders, who coordinate convening resolution panels following principles established in our agreements. Resolution timelines target 30-60 days, balancing thoroughness with prompt resolution.
+
+## Authority
+
+General Circle roles maintain authority over dispute resolution processes within boundaries established by governance processes. The appropriate governance body retains ultimate authority to modify this framework. All resolutions must align with SuperBenefit's agreements and multi-stakeholder governance structure.

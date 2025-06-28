@@ -1,51 +1,21 @@
 ---
-description: Resource allocation policy placeholder for SuperBenefit DAO
+description: Clarifies SuperBenefit DAO's minimal role in resource management and cell financial autonomy
 ---
 
 # Resource Allocation Policy
 
-**Status**: To be developed within 24 months of Operating Agreement effective date
+This policy establishes SuperBenefit DAO's approach to resource allocation, emphasizing our minimal role in financial management. The DAO serves as a coordination mechanism, not a financial controller.
 
-## Purpose
+## Cell Autonomy
 
-This policy will establish procedures for additional contributions, budget management, and expense approval as referenced in the Operating Agreement. The policy must enable responsible resource stewardship while maintaining transparency and Member oversight of financial decisions.
+SuperBenefit cells maintain complete financial autonomy. The DAO does not manage, direct, or oversee cell treasuries. Each cell determines its own resource allocation, financial practices, and surplus distribution. This autonomy reflects our commitment to distributed decision-making and subsidiarity.
 
-## Operating Agreement Compliance Requirements
+Cells direct surplus to the SuperBenefit community treasury, not to the DAO. This flow bypasses DAO involvement, maintaining clear separation between coordination functions and financial management.
 
-The Operating Agreement requires this policy to address:
+## DAO Resources
 
-- Procedures for determining additional contribution requirements
-- Budget development and approval processes  
-- Expense approval and reimbursement procedures
-- Compensation frameworks for services advancing organizational purpose
-- Prior approval requirements for expense reimbursements
-- Financial procedures binding on all Members
+The DAO itself may have minimal operational expenses for governance infrastructure. While the DAO as an entity doesn't typically control funds directly, Members may delegate spending authority to General Circle roles if operational needs arise. Any such delegation follows standard authority delegation procedures with defined scope and accountability.
 
-## Key Policy Development Considerations
+## Transparency
 
-- **Treasury Proposal Integration**: Alignment with DAOIP-4 treasury proposal category
-- **Transparency**: Clear, accessible financial reporting and decision-making
-- **Member Oversight**: Appropriate governance approval for resource allocation decisions
-- **Operational Efficiency**: Streamlined procedures for routine financial operations
-- **Accountability**: Clear responsibility assignment and stewardship tracking
-- **Compliance**: Integration with non-profit requirements and legal obligations
-
-## Resource Management Framework
-
-**Budget Development**: Annual and project-based budgeting processes with Member approval for significant allocations.
-
-**Expense Management**: Approval workflows, reimbursement procedures, and expenditure tracking systems.
-
-**Contribution Requirements**: Procedures for determining when additional Member contributions may be needed.
-
-**Compensation Framework**: Guidelines for reasonable compensation aligned with organizational purpose and non-profit status.
-
-## Implementation Timeline
-
-This policy framework will be developed through SuperBenefit DAO's governance processes during the first 24 months following Operating Agreement adoption. Interim resource allocation may proceed through governance processes established in the DAO State.
-
-Development priorities:
-1. Basic budget and expense approval procedures (Months 1-6)
-2. Contribution and compensation frameworks (Months 6-12)
-3. Financial oversight and reporting systems (Months 12-18)
-4. Integration with treasury proposal processes and compliance requirements (Months 18-24)
+While the DAO doesn't manage cell resources, all cells must maintain their funds onchain in known multisig wallet addresses and conduct transactions on public EVM blockchains. This requirement ensures transparency without imposing bookkeeping obligations. The DAO may facilitate coordination by providing platforms for cells to share additional financial information if they choose, but onchain transparency through public blockchain transactions remains the core requirement.
