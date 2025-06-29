@@ -50,7 +50,7 @@ Community agreements establishing cultural foundations and behavioral expectatio
 
 Operational agreements defining structures and processes within SuperBenefit DAO are governed through operational governance processes including SuperBenefit DAO contributors. These address decision-making frameworks, resource allocation systems, and coordination mechanisms enabling effective organizational function. Modifications must originate from formal proposals submitted through SuperBenefit DAO's governance processes.
 
-Constitutional elements that explicitly affect relationships between membership classes or SuperBenefit's fundamental structure require broader governance processes including input from affected participant types. These elements will be documented in constitution.md rather than specific agreement directories, reflecting their foundational nature and broad applicability.
+Constitutional elements that explicitly affect relationships between membership classes or SuperBenefit's fundamental structure require broader governance processes including input from affected participant types. These elements are documented within the Operating Agreement and relevant agreements, reflecting their foundational nature and broad applicability.
 
 All agreement modifications follow established proposal processes within respective governance domains. Proposals must clearly identify changes being made, provide rationale for necessity, and demonstrate alignment with SuperBenefit's purpose and values. Agreement changes require repository implementation only after formal approval through appropriate governance processes.
 

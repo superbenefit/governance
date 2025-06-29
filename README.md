@@ -20,7 +20,7 @@ SuperBenefit's governance documentation organizes around three foundational elem
 
 SuperBenefit welcomes participation from community members at different levels of engagement, recognizing that effective coordination benefits from diverse perspectives and contributions. Whether you're exploring SuperBenefit's approach to organization, contributing to specific initiatives, or helping shape our governance evolution, this repository provides resources to support meaningful participation.
 
-- For newcomers to SuperBenefit, begin with our community [agreements](/agreements/readme.md) to understand the cultural foundation of our work, then explore our [constitution](/constitution.md) to grasp how SuperBenefit's mission translates into organizational structure.
+- For newcomers to SuperBenefit, begin with our community [agreements](/agreements/readme.md) to understand the cultural foundation of our work and how SuperBenefit's mission translates into organizational structure.
 - Active contributors will find detailed guidance in the [policies](/policies/readme.md) section, organized by domain to support efficient navigation. Understanding the governance frameworks within your areas of contribution enables more effective coordination with other community members while preserving the autonomy necessary for innovative work.
 - Network neighbors can use this knowledge to inspire and inform their own governance evolution. Everything in this repository is free to use, share, modify and distribute as needed. You can use our [DAO state template](https://github.com/superbenefit/state-template) to replicate this repository structure for your own community, network or organizing framework.
 

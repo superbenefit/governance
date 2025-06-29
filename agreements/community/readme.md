@@ -132,9 +132,7 @@ Community agreements are organized to support easy navigation by community membe
 community/
 ├── index.md              # User-facing overview
 ├── readme.md            # This technical guide
-├── behavioral_guidelines.md  # Example community agreement
-├── participation_framework.md  # Example community agreement
-└── conflict_resolution.md     # Example community agreement
+└── [community agreements to be developed through governance]
 ```
 
 As the directory grows, consider topical organization that reflects different aspects of community life while maintaining clear connections between related agreements.
