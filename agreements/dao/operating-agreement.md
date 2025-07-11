@@ -26,7 +26,7 @@ I.4 **Principal Office.** The Principal Office of the Company shall be at the pr
 
 I.5 **Term.** The Company shall commence upon the date of the filing of the Certificate of Formation and shall continue in existence until dissolved pursuant to this Agreement.
 
-I.6 **Relationship to SuperBenefit Community.** The Company exists as a distinct governance body within the broader SuperBenefit network and shall maintain operational separation from the SuperBenefit community. The Company shall participate in governance coordination with other bodies within the SuperBenefit network, including the SuperBenefit Community and the General Circle. This organizational structure shall:
+I.6 **Relationship to SuperBenefit Community.** The Company exists as a distinct governance body within the broader SuperBenefit network and shall maintain operational separation from the SuperBenefit community. The Company shall participate in governance coordination with other bodies within the SuperBenefit network, including the SuperBenefit Community and coordination bodies as established in this Agreement. This organizational structure shall:
 
 A. Enable the Company to maintain exclusive authority over business operations while the SuperBenefit Community retains autonomous authority over cultural and social matters;
 
@@ -60,37 +60,21 @@ The Company shall never be operated for the primary purpose of carrying on a tra
 
 ## ARTICLE III - MEMBERS
 
-Only Cells hold membership in the Company. Contributors participate through their Cell relationships.
-
 III.1 **Participant Classes.** The Company recognizes two classes of participants:
 
-A. **Cells**: Autonomous teams operating as collective entities that constitute the Company's sole Members. Cells utilize multisignature wallets and participate in operational governance through consensus mechanisms. Cell eligibility requirements shall be established in the Cell Eligibility Policy.
+A. **Cells**: Autonomous teams that carry out SuperBenefit's purpose, which constitute the Company's Members. Cells are identified by ownership of permissioned multisignature wallets, and participate in operational governance through consensus mechanisms established in the DAO State. Technical implementation details for Cell identification shall be specified in the Cell Policy.
 
-B. **Contributors**: Individuals working within Cells who do not hold Company membership. Contributors participate exclusively through their Cells and are identified by Cell-issued role badges. Contributor eligibility requirements shall be established in the Contributor Eligibility Policy.
+B. **Contributors**: Individuals who participate in the Company's activities through Cells. While Contributors do not hold direct Company membership, they exercise collective governance through their Cells. Contributors are identified by Cell-issued role badges and participate in Cell governance as established in the DAO State. Technical implementation details for Contributor identification shall be specified in the Contributor Eligibility Policy.
 
-III.2 **Accountability Structure.** The Company maintains decentralized coordination with clear accountability:
+III.2 **Eligibility and Accountability.** The Company shall maintain eligibility criteria for all participants through policies in the DAO State. Cells shall ensure their operations and Contributors' conduct comply with applicable Company policies. Contributors remain accountable to their Cells for role performance within Company policy constraints.
 
-A. **Cells** are accountable to the Company and shall ensure their operations and Contributors' conduct comply with applicable DAO State policies;
+III.3 **Transparency and Documentation.** The Company shall maintain a public directory of Members and transparency requirements in accordance with the DAO Act. All operational policies, formation processes, and accountability structures shall be detailed in the Cell Eligibility Policy, Contributor Eligibility Policy, Cell Policy, and DAO Member Policy in the DAO State.
 
-B. **Contributors** are accountable to their Cells, which determine contributor roles and responsibilities within Company policy constraints;
-
-C. **Governance Rights** vest exclusively in Cells. Contributors possess no direct governance rights and participate only through their Cells.
-
-Operational procedures for Cell formation, contributor onboarding, and governance participation shall be detailed in respective DAO State policies.
-
-III.3 **Required Policies.** The Company shall maintain in the DAO State:
-
-A. **Eligibility Policies** establishing badge issuance criteria for each participant class;
-
-B. **Cell Policy** governing Cell formation, operations, coordination, and governance participation;
-
-C. **DAO Member Policy** governing Contributor participation through Cells.
-
-III.4 **Voting Rights.** Only Cells exercise voting rights in Company governance through mechanisms established in the Voting Policy and Cell Policy. Contributors have no direct voting rights.
+III.4 **Voting Rights.** Only Cells exercise voting rights in Company governance. Contributors possess no direct voting rights and participate in governance exclusively through their Cell relationships. Cells shall ensure their contributor eligibility criteria provide Contributors with access to community governance, enabling direct participation in community matters distinct from Company operations. Voting mechanisms, delegation procedures, and decision-making frameworks shall be established in the Voting Policy and Cell Policy in the DAO State.
 
 ## ARTICLE IV - RIGHTS AND DUTIES OF MEMBERS
 
-IV.1 **Management Rights.** All Cell Members who have not Dissociated (as defined in Article VIII) shall be entitled to vote on any matter submitted to a vote of the Members in accordance with the Voting Policy maintained in the DAO State. For clarity, Contributors have no direct voting rights and participate in governance only through their Cells.
+IV.1 **Management Rights.** All Cell Members who have not Dissociated (as defined in Article VIII) shall be entitled to vote on any matter submitted to a vote of the Members in accordance with the Voting Policy in the DAO State.
 
 IV.2 **Liability of Members.** No Member shall be liable for the liabilities of the Company unless otherwise provided for in this Agreement or any governance rules approved in accordance with this Agreement. The failure of the Company to observe any formalities or requirements relating to the exercise of its powers or management of its business or affairs under this Agreement shall not be grounds for imposing personal liability on the Members for liabilities of the Company.
 
@@ -102,13 +86,13 @@ IV.5 **Miscellaneous Obligations.** Each Member shall be duty-bound to act consi
 
 ## ARTICLE V - MANAGEMENT
 
-V.1 **Member-Managed.** The Company shall be member-managed. Members shall make decisions through governance processes established in the DAO State, including the Voting Policy and other metagovernance policies. Governance activities carried out by the Members of the Company constitute "Operational Governance" for purposes of this Agreement.
+V.1 **Member-Managed.** The Company shall be member-managed. Members shall make decisions through governance processes established in the DAO State, including the Voting Policy and other metagovernance policies. Governance activities carried out by the Members of the Company constitute "Operational Governance" for purposes of this Agreement. The General Circle, further defined in Article V.5, serves as a coordination body within Operational Governance.
 
 V.2 **Policy Domains.** The Company's activities shall be organized through policy domains as established in the DAO State. Operational governance has authority over Operational Policies, which govern work coordination, resource allocation, and contributor activities. Operational governance may create sub-domains within Operational Policies and delegate authority to create or update policies within those sub-domains.
 
 V.3 **Authority Delegation.** The Company shall maintain an Authority Delegation Policy in the DAO State that establishes procedures for delegating policy-making authority to the General Circle or other groups. All delegations must remain revocable and subject to Member oversight as established in such policy. Members are bound by the delegation procedures and oversight requirements established in such policy.
 
-V.4 **Authority to Bind Company.** Only Members acting in accordance with the governance processes established in the DAO State shall have the authority to bind the Company. Operational governance may create governance bodies with authority to bind the Company within defined scopes, or delegate such authority to specific roles or entities within particular boundaries. The Authority Delegation Policy maintained in the DAO State shall establish the specific procedures, limitations, and accountability mechanisms for binding the Company.
+V.4 **Authority to Bind Company.** Only Members acting in accordance with the governance processes established in the DAO State shall have the authority to bind the Company. Operational governance may create governance bodies with authority to bind the Company within defined scopes, or delegate such authority to specific roles or entities within particular boundaries. The Authority Delegation Policy in the DAO State shall establish the specific procedures, limitations, and accountability mechanisms for binding the Company.
 
 V.5 **Operational Governance and Delegation.** Operational governance authority is exercised by Cells through consensus mechanisms established in Company policies. Recognizing the coordination requirements of multi-Cell consensus:
 
@@ -159,7 +143,7 @@ B. **Contributors**: While Contributors are not Members, their participation may
    2. Revocation by their Cell; or
    3. Procedures established in the Contributor Eligibility Policy and DAO Member Policy.
 
-Each class shall have cessation procedures appropriate to its structure, including voluntary withdrawal and involuntary removal processes, as detailed in their respective policies maintained in the DAO State.
+Each class shall have cessation procedures appropriate to its structure, including voluntary withdrawal and involuntary removal processes, as detailed in their respective policies in the DAO State.
 
 VIII.2 **No Distribution on Cessation of Member Status.** The voluntary or involuntary cessation of a person's Member status does not give rise to any right of a Member to a distribution of any property or economic resources that may be or become available to the Company.
 
@@ -173,13 +157,13 @@ B. **New Contributors**: Individual Contributors join the Company's activities b
 
 The admission process respects the decentralized nature of the Company's membership structure.
 
-IX.2 **Additional Membership Requirements.** Additional requirements may be established through Company policies maintained in the DAO State in accordance with applicable law and organizational values.
+IX.2 **Additional Membership Requirements.** Additional requirements may be established through Company policies in the DAO State in accordance with applicable law and organizational values.
 
 ## ARTICLE X - DISSOLUTION
 
 X.1 **Dissolution Events.** The Company shall be dissolved, and its affairs wound up in accordance with §114 of the DAO Act and other applicable Marshall Islands laws upon either:
 
-A. Approval by a vote of the Members in accordance with the dissolution requirements established in the Voting Policy maintained in the DAO State; or
+A. Approval by a vote of the Members in accordance with the dissolution requirements established in the Voting Policy in the DAO State; or
 B. Any of the events specified in §114(1) of the DAO Act.
 
 X.2 **Dissolution Requirements.** As soon as possible following the occurrence of any of the events specified in Article X.1 causing the dissolution of the Company, an authorized agent or Member shall file Articles of Dissolution with the Registrar in the form prescribed by the Registrar.
@@ -190,7 +174,7 @@ X.4 **No distribution to interested parties on dissolution.** Upon a court order
 
 ## ARTICLE XI - AMENDMENT
 
-XI.1 **Amendment or Modification.** This Agreement may be amended or modified only through the constitutional amendment requirements established in the Voting Policy maintained in the DAO State. Such requirements shall include heightened approval thresholds to protect the fundamental structure established herein.
+XI.1 **Amendment or Modification.** This Agreement may be amended or modified only through the constitutional amendment requirements established in the Voting Policy in the DAO State. Such requirements shall include heightened approval thresholds to protect the fundamental structure established herein.
 
 XI.2 **DAO State Governance.** The policies and procedures maintained in the DAO State may be modified through their respective governance processes as established in this Agreement and detailed in the DAO State governance framework.
 
@@ -204,14 +188,7 @@ XII.2 **Governing Law.** This Agreement is governed by and shall be construed in
 
 XIII.1 **Entire Agreement.** This Agreement, together with the policies and procedures maintained in the DAO State governance repository, represents the entire agreement among all the Members and between the Members and the Company.
 
-XIII.2 **DAO State Integration.** The Company's governance framework includes this Agreement and the comprehensive documentation maintained in the DAO State, which consists of:
-
-A. **Community Agreements**: Establishing cultural foundations and behavioral expectations for all participants.
-B. **Operational Agreements**: Defining structures and processes for organizational coordination.
-C. **Governance Policies**: Detailed frameworks for decision-making, operations, and platform management.
-D. **Proposal Archives**: Historical records of governance decisions and their implementation.
-
-Members agree to be bound by this Agreement and all validly adopted policies and procedures maintained in the DAO State.
+XIII.2 **DAO State Integration.** The DAO State constitutes an integral part of the Company's governance framework, serving as the comprehensive repository of all governance documentation. Members agree to be bound by this Agreement and all validly adopted policies and procedures in the DAO State. The Company shall maintain the DAO State as the authoritative source for its governance documentation, ensuring public accessibility and regular updates as governance evolves.
 
 XIII.3 **Separability of Provisions.** Each provision of this Agreement shall be considered separable, and if for any reason any provision or provisions herein are determined to be invalid, unenforceable, or illegal under any existing or future law, such invalidity, unenforceability, or illegality shall not impair the operation of or affect those portions of this Agreement that are valid, enforceable and legal.
 
@@ -226,6 +203,6 @@ XIII.5 **Policy Implementation Timeline.** All policies referenced in this Agree
 _____________________________________
 By: Authorized Representative
 
-**MEMBERS:**
+**CELLS:**
 
-By their participation in the Company's governance systems and acceptance of membership in accordance with the Cell Eligibility Policy maintained in the DAO State, Members agree to be bound by this Agreement.
+By their participation in the Company's governance systems and acceptance of membership in accordance with the Cell Eligibility Policy in the DAO State, Cells agree to be bound by this Agreement. Individual Cell authorization shall be evidenced through onchain mechanisms as specified in the Cell Policy.
