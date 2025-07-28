@@ -200,9 +200,11 @@ XIII.5 **Policy Implementation Timeline.** All policies referenced in this Agree
 
 **COMPANY:**
 
-_____________________________________
-By: Authorized Representative
+SuperBenefit DAO LLC
 
 **CELLS:**
 
-By their participation in the Company's governance systems and acceptance of membership in accordance with the Cell Eligibility Policy in the DAO State, Cells agree to be bound by this Agreement. Individual Cell authorization shall be evidenced through onchain mechanisms as specified in the Cell Policy.
+- CXI
+- DAO Primitives
+- Reimagining Power
+- All In For Sport
