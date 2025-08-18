@@ -40,7 +40,7 @@ D. Establish coordination mechanisms through onchain governance infrastructure t
 
 II.1 **Nonprofit Character.** The Company shall be a non-profit entity within the meaning of the Non-Profit Act and may exercise the powers and privileges conferred upon limited liability companies by the laws of the Marshall Islands only in furtherance of and subject to its company purpose.
 
-II.2 **Purposes of the Company.** The Company is organized exclusively for charitable, educational, scientific, and other types of "good works" purposes and not for profit. Specifically, the Company shall research and incubate initiatives that harness emerging technologies and practices in pursuit of systems transformation.
+II.2 **Purposes of the Company.** To research and incubate initiatives that harness emerging technologies and practices in pursuit of systems transformation.
 
 II.3 **Authority of the Company.** The Company shall have and exercise all of the powers and authority conferred by Marshall Islands law on an entity recognized as a decentralized autonomous organization limited liability company with non-profit status, and insofar as this entity form is recognized by foreign laws as a legal person separate and distinct from its Members, then the Company shall also have all of the powers and authority as conferred by those foreign laws.
 
@@ -202,9 +202,4 @@ XIII.5 **Policy Implementation Timeline.** All policies referenced in this Agree
 
 SuperBenefit DAO LLC
 
-**CELLS:**
-
-- CXI
-- DAO Primitives
-- Reimagining Power
-- All In For Sport
+By: Heenal Rajani, Authorized Representative
