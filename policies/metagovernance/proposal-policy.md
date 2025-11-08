@@ -1,8 +1,7 @@
 ---
+title: Proposal Policy
 description: Common proposal standards for SuperBenefit governance bodies
 ---
-
-# Proposal Policy
 
 This policy establishes common standards for governance proposals across SuperBenefit's multiple governance bodies. These standards create shared expectations for proposal content while preserving each governance body's autonomy over its own decision-making processes.
 

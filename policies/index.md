@@ -1,8 +1,7 @@
 ---
+title: Policies
 description: An index of policies that govern SuperBenefit's operations
 ---
-
-# SuperBenefit Policy Registry
 
 Welcome to our policy repository, where we maintain the living documents that guide how we work together. Policies translate our foundational agreements into practical coordination mechanisms across different domains and scales of activity.
 

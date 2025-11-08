@@ -1,8 +1,7 @@
 ---
+title: DAO Agreements
 description: Operational agreements that govern SuperBenefit DAO
 ---
-
-# SuperBenefit DAO Operational Agreements
 
 This section contains the operational agreements that govern formal structures and processes within SuperBenefit DAO. These agreements establish rights, responsibilities, and relationships among members who contribute directly to SuperBenefit's organizational operations.
 

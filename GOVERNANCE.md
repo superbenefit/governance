@@ -1,4 +1,7 @@
-# SuperBenefit DAO Governance Repository Maintenance
+---
+title: SuperBenefit DAO Governance Repository Maintenance
+description: Framework for maintaining and evolving SuperBenefit DAO's governance repository
+---
 
 This document establishes the framework for maintaining and evolving SuperBenefit DAO's governance repository. This repository serves as the canonical source of truth for our agreements, policies, and governance history, enabling transparent coordination across our purpose-aligned network of autonomous teams and diverse community participants.
 

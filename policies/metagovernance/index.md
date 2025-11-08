@@ -1,8 +1,7 @@
 ---
+title: Metagovernance Policies
 description: An index of metagovernance policies for SuperBenefit
 ---
-
-# SuperBenefit Metagovernance Policies
 
 Welcome to the metagovernance section of our policy documentation. This area contains the frameworks that guide how we make collective decisions, evolve our governance, and resolve conflicts. These policies establish the processes through which other governance decisions gain legitimacy.
 

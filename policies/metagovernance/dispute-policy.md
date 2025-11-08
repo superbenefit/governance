@@ -1,8 +1,7 @@
 ---
+title: Dispute Resolution Policy
 description: Framework for resolving disputes within SuperBenefit through restoration-focused processes
 ---
-
-# Dispute Resolution Policy
 
 This policy establishes the framework for resolving disputes that arise within SuperBenefit, whether concerning governance decisions, member relationships, or resource allocation. Our approach emphasizes restoration and learning over punishment, recognizing that healthy conflict resolution strengthens collaborative capacity.
 

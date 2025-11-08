@@ -1,10 +1,9 @@
 ---
+title: Proposal Archive Template
 description: >-
   Template for creating standardized proposal archive pages within the SuperBenefit DAO
   governance repository
 ---
-
-# Proposal Archive Template
 
 This template provides a standardized approach for creating archive pages for proposals submitted to SuperBenefit DAO governance. Consistent archival practices support transparency and institutional memory by preserving the complete context of governance decisions.
 

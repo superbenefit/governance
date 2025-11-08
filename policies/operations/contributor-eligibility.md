@@ -1,8 +1,7 @@
 ---
+title: Contributor Eligibility Policy
 description: Eligibility requirements for individuals to participate as Contributors through SuperBenefit DAO Cells
 ---
-
-# Contributor Eligibility Policy
 
 This policy establishes the eligibility requirements for individuals to participate as Contributors in SuperBenefit DAO through Cell membership, as described in Article III.1.B of the Operating Agreement.
 

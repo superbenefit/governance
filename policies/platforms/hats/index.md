@@ -1,8 +1,7 @@
 ---
+title: Hats Protocol Governance
 description: Hats Protocol governance policies for SuperBenefit
 ---
-
-# Hats Protocol Governance
 
 This section contains policies governing SuperBenefit's use of Hats Protocol for onchain role management. These policies establish the social coordination frameworks that complement Hats Protocol's technical capabilities, ensuring that onchain role management serves both individual fulfillment and collective effectiveness.
 

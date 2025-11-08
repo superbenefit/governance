@@ -1,8 +1,7 @@
 ---
+title: Operational Policies
 description: An index of operational policies for SuperBenefit DAO
 ---
-
-# SuperBenefit DAO Operational Policies
 
 Welcome to the operations section of our policy documentation. This area contains policies that govern how work gets organized and coordinated within SuperBenefit DAO. These policies translate organizational purpose into practical coordination mechanisms.
 

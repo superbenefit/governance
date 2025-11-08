@@ -1,8 +1,7 @@
 ---
+title: Data Management and Privacy Policy
 description: Framework for managing member data and privacy within SuperBenefit
 ---
-
-# Data Management and Privacy Policy
 
 This policy establishes the authority framework for managing member data and protecting privacy within SuperBenefit's governance systems.
 

@@ -1,8 +1,7 @@
 ---
+title: Role Advice Policy
 description: Framework for SuperBenefit Members to advocate for role modifications when normal team coordination isn't sufficient
 ---
-
-# Role Advice Policy
 
 This policy provides a framework for SuperBenefit Members to advocate for modifications to their Hats Protocol roles when normal team coordination processes aren't working or when authority structures have become calcified in ways that limit member agency.
 

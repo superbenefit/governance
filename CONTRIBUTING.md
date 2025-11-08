@@ -1,4 +1,7 @@
-# Contributing to SuperBenefit DAO Governance
+---
+title: Contributing to SuperBenefit DAO Governance
+description: Guidelines for maintaining and contributing to SuperBenefit's governance documentation
+---
 
 This guide outlines how to effectively maintain and contribute to SuperBenefit's governance documentation. This repository serves as the canonical source of truth for our agreements, policies, and governance history, enabling transparent coordination across our purpose-aligned network.
 

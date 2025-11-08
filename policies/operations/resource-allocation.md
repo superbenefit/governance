@@ -1,8 +1,7 @@
 ---
+title: Resource Allocation Policy
 description: Clarifies SuperBenefit DAO's minimal role in resource management and cell financial autonomy
 ---
-
-# Resource Allocation Policy
 
 This policy establishes SuperBenefit DAO's approach to resource allocation, emphasizing our minimal role in financial management. The DAO serves as a coordination mechanism, not a financial controller.
 

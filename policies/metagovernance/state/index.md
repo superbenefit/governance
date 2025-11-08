@@ -1,8 +1,7 @@
 ---
+title: Governance Record-Keeping Policies
 description: An index of state management policies for SuperBenefit DAO
 ---
-
-# State Management Policies
 
 Welcome to the state management section of our metagovernance policies. This area governs how we maintain, update, and evolve our governance repository itself—ensuring that our documented agreements and policies remain accurate, accessible, and aligned with collective decisions.
 

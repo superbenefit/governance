@@ -1,8 +1,7 @@
 ---
+title: Repository Update Policy
 description: Core policies governing updates and maintenance of the SuperBenefit DAO governance repository
 ---
-
-# Repository Update Policy
 
 This document establishes the framework for maintaining and updating the SuperBenefit DAO governance state repository. These policies ensure that changes to our governance documentation follow legitimate processes while maintaining transparency, accuracy, and alignment with our distributed governance principles.
 

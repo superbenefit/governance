@@ -1,8 +1,7 @@
 ---
+title: Operating Agreement
 description: Operating Agreement establishing SuperBenefit DAO as a Marshall Islands DAO LLC
 ---
-
-# OPERATING AGREEMENT OF SUPERBENEFIT DAO LLC
 
 **NOTICE OF RESTRICTIONS ON DUTIES AND TRANSFERS**
 

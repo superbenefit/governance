@@ -1,8 +1,7 @@
 ---
+title: Proposals
 description: Historical record of governance proposals and their outcomes
 ---
-
-# SuperBenefit Proposal Archive
 
 This section contains the historical record of governance proposals that have been formally considered across SuperBenefit. The proposal archive serves as institutional memory, providing transparency into past decisions and creating continuity as our community and organization evolve over time.
 

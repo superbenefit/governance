@@ -1,8 +1,7 @@
 ---
+title: Amendment Policy
 description: Procedures for modifying SuperBenefit's governance structures while protecting fundamental rights
 ---
-
-# Amendment Policy
 
 This policy establishes how SuperBenefit's governance evolves while balancing stability with adaptability. Different types of changes require different approval thresholds, ensuring fundamental elements receive appropriate protection.
 

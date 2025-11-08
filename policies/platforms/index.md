@@ -1,8 +1,7 @@
 ---
+title: Platform Administration Policies
 description: An index of platform policies for SuperBenefit
 ---
-
-# SuperBenefit Platform Policies
 
 Welcome to the platforms section of our policy documentation. This area contains policies that govern our digital infrastructure – the tools, systems, and online spaces that enable collaboration across SuperBenefit.
 

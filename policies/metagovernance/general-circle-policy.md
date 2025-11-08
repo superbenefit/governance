@@ -1,8 +1,7 @@
 ---
+title: General Circle Policy
 description: Basic framework for SuperBenefit's General Circle
 ---
-
-# General Circle Policy
 
 This policy establishes the basic framework for SuperBenefit's General Circle. The General Circle facilitates coordination in shared governance spaces between SuperBenefit's multiple governance bodies.
 

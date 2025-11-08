@@ -1,8 +1,7 @@
 ---
+title: Authority Delegation Policy
 description: Framework for delegating decision-making authority within SuperBenefit DAO's distributed structure
 ---
-
-# Authority Delegation Policy
 
 This policy establishes how SuperBenefit DAO delegates authority to enable responsive decision-making while maintaining Member oversight. Our approach embodies subsidiarity – placing decisions with those closest to the impact and expertise.
 

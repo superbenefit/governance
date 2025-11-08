@@ -1,4 +1,7 @@
-# SuperBenefit Code of Conduct
+---
+title: SuperBenefit Code of Conduct
+description: Behavioral standards for all SuperBenefit participants
+---
 
 [To be developed through community governance processes]
 

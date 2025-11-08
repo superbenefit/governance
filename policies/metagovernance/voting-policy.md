@@ -1,8 +1,7 @@
 ---
+title: Voting Policy
 description: Basic voting mechanisms for SuperBenefit DAO member decision-making
 ---
-
-# Voting Policy
 
 This policy establishes basic voting mechanisms for shared metagovernance decisions within SuperBenefit. These mechanisms apply when governance bodies coordinate on matters affecting shared resources, though individual governance bodies may adopt or adapt these rules for their own internal use.
 

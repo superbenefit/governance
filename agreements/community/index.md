@@ -1,8 +1,7 @@
 ---
+title: Community Agreements
 description: Agreements that govern participation in the SuperBenefit community
 ---
-
-# SuperBenefit Community Agreements
 
 This section contains the agreements that establish shared expectations and behavioral norms for all SuperBenefit community participants, regardless of their formal role or level of involvement with SuperBenefit DAO.
 

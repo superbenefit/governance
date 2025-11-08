@@ -1,8 +1,7 @@
 ---
+title: Digital Infrastructure Policy
 description: Framework for managing SuperBenefit's digital infrastructure and governance repository
 ---
-
-# Digital Infrastructure Policy
 
 This policy establishes the authority framework for managing SuperBenefit's digital infrastructure, including our governance repository and official online venues.
 
