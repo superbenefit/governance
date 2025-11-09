@@ -6,16 +6,36 @@ on:
       - main
     paths:
       - '**/*.md'
-    paths-ignore:
-      - '**/README.md'
-      - '**/readme.md'
-      - '**/Readme.md'
 
 jobs:
   notify:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Check for non-README markdown changes
+        id: check_files
+        run: |
+          # Get list of changed markdown files
+          changed_files=$(git diff --name-only HEAD^ HEAD -- '*.md' '**/*.md')
+
+          # Filter out README files (case-insensitive)
+          non_readme_files=$(echo "$changed_files" | grep -iv 'readme\.md' || true)
+
+          if [ -n "$non_readme_files" ]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "Non-README markdown files changed:"
+            echo "$non_readme_files"
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "Only README files changed, skipping notification"
+          fi
+
       - name: Send repository dispatch event
+        if: steps.check_files.outputs.has_changes == 'true'
         uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.GOVERNANCE_SITE_PAT }}
