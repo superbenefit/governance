@@ -1,0 +1,18 @@
+name: Notify Governance Site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send repository dispatch event
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.GOVERNANCE_SITE_PAT }}
+          repository: superbenefit/governance-site
+          event-type: governance-updated
+          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
